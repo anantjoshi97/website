@@ -6,6 +6,7 @@ categories:
 tags:
   - Jekyll
   - update
+layout: single
 classes:
   - dark-theme
   - wide
