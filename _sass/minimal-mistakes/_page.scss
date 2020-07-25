@@ -91,15 +91,25 @@
     }
   }
 
-  a:not(.btn) {
-    &:hover {
-      text-decoration: underline;
+   /* unvisited link */
+a:link {
+  color: red;
+}
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
-  }
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
 
   dt {
     margin-top: 1em;
@@ -222,10 +232,25 @@
     padding: 5px 10px;
   }
 
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
+   /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
 }
 
 /*
