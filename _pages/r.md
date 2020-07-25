@@ -1,8 +1,9 @@
 ---
-title: "R"
-permalink: /r/
-layout: single
-author_profile: true
+layout: collection
+title: "Recipes"
+collection: recipes
+permalink: /recipes/
+author_profile: false
 ---
 
-Hello
+Sample document listing for the collection `_recipes`.
