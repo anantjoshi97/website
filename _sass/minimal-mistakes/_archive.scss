@@ -16,10 +16,25 @@
     padding-right: $right-sidebar-width;
   }
 
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
+   /* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+} 
 }
 
 .archive__subtitle {
