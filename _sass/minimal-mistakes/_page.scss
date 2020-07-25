@@ -146,9 +146,25 @@
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
 
-    a {
-      color: #fff;
-    }
+    
+   a:link {
+     color: red;
+   }
+
+
+   a:visited {
+     color: green;
+   }
+
+
+   a:hover {
+     color: hotpink;
+   }
+
+
+   a:active {
+     color: blue;
+   } 
 
     .wrapper {
       padding-left: 1em;
