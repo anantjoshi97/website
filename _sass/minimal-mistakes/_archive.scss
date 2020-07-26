@@ -29,6 +29,25 @@
   a[rel="permalink"] {
     position: static;
   }
+
+  a {
+  
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+    outline: 0;
+    text-decoration: underline;
+  }
+   
+   &:link{
+   color: $link-color;
+   text-decoration: none;
+   }  
+}
+
 }
 
 .archive__subtitle {
