@@ -146,6 +146,23 @@ a {
    }  
 }
 
+a[rel="permalink"] {
+    &:visited {
+    color: hotpink;
+  }
+
+  &:hover {
+    color: red;
+    outline: 0;
+    text-decoration: underline;
+  }
+   
+   &:link{
+   color: $link-color;
+   text-decoration: none;
+   }  
+  }
+
 /* buttons */
 
 button:focus {
