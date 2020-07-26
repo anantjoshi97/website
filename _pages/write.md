@@ -15,7 +15,7 @@ Hello
   <h1>{{ year.name }}</h1>
     <ul>
       {% for post in year.items %}
-        <li><a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date }}</a></li>
+        <li><a href="{{ post.url  }}">{{ post.title }}-{{ post.date }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}
