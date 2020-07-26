@@ -23,7 +23,7 @@ Hello
 {% endfor %}
 -->
 
-{% for collection in site.tags %}
+{% for tag in site.tags %}
 {% assign name = tag[0] %}
   <h1>{{ name }}</h1>
   {% assign postsByYear = tag[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
