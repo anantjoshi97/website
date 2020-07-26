@@ -24,7 +24,7 @@ Hello
 -->
 
 <!-- Posts by specific tag and year -->
-{% assign postsByYear = site.tags.Post Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.tags.Post-Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
 <ul>
