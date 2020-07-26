@@ -9,7 +9,7 @@ author_profile: true
 
 Hello
 
-<!--
+<!-- Posts by year
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
@@ -23,7 +23,24 @@ Hello
 {% endfor %}
 -->
 
-{% for tag in site.tags.readability %}
+<!-- Posts by specific tag and year -->
+<h1> readability </h1>
+{% assign postsByYear = site.tags.readability | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h1>{{ year.name }}</h1>
+  <ul>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+{% endfor %}
+
+
+<!-- Posts by tag and year
+{% for tag in site.tags %}
 {% assign name = tag[0] %}
 <h1>{{ name }}</h1>
 {% assign postsByYear = tag[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
@@ -38,8 +55,9 @@ Hello
   </ul>
 {% endfor %}
 {% endfor %}
+-->
 
-<!--
+<!-- Posts by collection
 {% for collection in site.collections %}
 {% assign name = collection.label %}
   <h1>{{ name }}</h1>
@@ -52,7 +70,7 @@ Hello
 -->
 
 
-<!--
+<!-- List of all posts
 <ul>
   {% for post in site.posts %}
     <li>
