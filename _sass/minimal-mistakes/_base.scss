@@ -137,7 +137,13 @@ a {
   &:hover {
     color: $link-color-hover;
     outline: 0;
+    text-decoration: underline;
   }
+   
+   &:link{
+   color: $link-color;
+   text-decoration: none;
+   }  
 }
 
 /* buttons */
