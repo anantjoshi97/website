@@ -25,13 +25,11 @@ Hello
 
 <!-- Posts by specific tag and year -->
 <ul>
-{% for post in site.tags.readability %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
-  </li>
-{% endfor %}
+  {% assign sorted = (site.tags.readability | sort: 'date') | reverse %}
+  {% for item in sorted %}
+  <li>{{ item.title }}</li>
+  {% endfor %}
 </ul>
-
 
 
 <!-- Posts by tag and year
