@@ -81,6 +81,23 @@
   a + a {
     opacity: 0.5;
   }
+  
+  a {
+  
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+    outline: 0;
+    text-decoration: underline;
+  }
+   
+   &:link{
+   color: $link-color;
+   text-decoration: none;
+   }
 }
 
 /* remove border*/
