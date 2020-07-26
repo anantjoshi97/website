@@ -24,19 +24,14 @@ Hello
 -->
 
 <!-- Posts by specific tag and year -->
-<h1> readability </h1>
-{% assign postsByYear = site.tags.readability | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-  <h1>{{ year.name }}</h1>
-  <ul>
-  {% for post in year.items %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+<ul>
+{% for post in site.tags.readability %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+  </li>
 {% endfor %}
-{% endfor %}
+</ul>
+
 
 
 <!-- Posts by tag and year
