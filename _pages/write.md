@@ -26,7 +26,7 @@ Hello
 {% for collection in site.collections %}
 {% assign name = collection.label %}
   <h1>{{ name }}</h1>
-  {% assign postsByYear = site.[name].posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  {% assign postsByYear = collection[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
     <h1>{{ year.name }}</h1>
     <ul>
