@@ -9,8 +9,7 @@ author_profile: true
 
 Hello
 
-{% assign postsByYear =
-    site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
   <h1>{{ year.name }}</h1>
     <ul>
