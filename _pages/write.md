@@ -22,27 +22,6 @@ Hello
 {% endfor %}
 -->
 
-{% assign entries = site[include.posts] %}
-
-{% if include.sort_by == 'title' %}
-  {% if include.sort_order == 'reverse' %}
-    {% assign entries = entries | sort: 'title' | reverse %}
-  {% else %}
-    {% assign entries = entries | sort: 'title' %}
-  {% endif %}
-{% elsif include.sort_by == 'date' %}
-  {% if include.sort_order == 'reverse' %}
-    {% assign entries = entries | sort: 'date' | reverse %}
-  {% else %}
-    {% assign entries = entries | sort: 'date' %}
-  {% endif %}
-{% endif %}
-
-{%- for post in entries -%}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
-  </li>  
-{%- endfor -%}
 
 <!--
 <ul>
