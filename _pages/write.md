@@ -24,12 +24,17 @@ Hello
 -->
 
 <!-- Posts by specific tag and year -->
+{% assign postsByYear = site.tags.readability | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h1>{{ year.name }}</h1>
 <ul>
-  {% assign sorted = (site.tags.readability | sort: 'date') | reverse %}
-  {% for item in sorted %}
-  <li>{{ item.title }}</li>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
   {% endfor %}
 </ul>
+{% endfor %}
 
 
 <!-- Posts by tag and year
