@@ -265,6 +265,9 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  - technical-posts
+
 
 # Defaults
 defaults:
