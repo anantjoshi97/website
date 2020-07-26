@@ -25,18 +25,18 @@ Hello
 
 {% for tag in site.tags %}
 {% assign name = tag[0] %}
-  <h1>{{ name }}</h1>
-  {% assign postsByYear = tag[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
-  {% for year in postsByYear %}
-    <h1>{{ year.name }}</h1>
-    <ul>
-    {% for post in year.items %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
-      </li>
-    {% endfor %}
-    </ul>
+<h1>{{ name }}</h1>
+{% assign postsByYear = tag[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h1>{{ year.name }}</h1>
+  <ul>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
   {% endfor %}
+  </ul>
+{% endfor %}
 {% endfor %}
 
 <!--
