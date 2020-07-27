@@ -9,4 +9,14 @@ main:
     url: /writing/
   - title: "Splash"
     url: /splash-page/
+  - title: "R"
+    url: /r/
+
+research:
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Collaborators"
+    url: /collab/
   
