@@ -9,9 +9,4 @@ main:
     url: /writing/
   - title: "Splash"
     url: /splash-page/
-  - title: "Splash"
-    subfolderitems:
-      - Page 1
-      - url: /splash-page/
-      - Page 2
-      - url: /writing/
+  
