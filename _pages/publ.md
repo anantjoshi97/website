@@ -21,6 +21,6 @@ L o P
   </div>
 </div>
 <div class="publinks">
-  <p>&#9658 <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9658 <a href="{{pub.arxiv}}">arXiV</a> </p>
+  <p> &#9658 <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9658 <a href="{{pub.arxiv}}">arXiV</a> </p>
 </div>
 {% endfor %}
