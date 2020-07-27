@@ -23,7 +23,7 @@ Hello
 {% endfor %}
 -->
 
-<!-- Posts by specific tag and year -->
+<!-- Posts by specific tag and year 
 {% assign postsByYear = site.tags.Post-Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
@@ -35,7 +35,7 @@ Hello
   {% endfor %}
 </ul>
 {% endfor %}
-
+-->
 
 <!-- Posts by tag and year
 {% for tag in site.tags %}
@@ -55,7 +55,7 @@ Hello
 {% endfor %}
 -->
 
-<!-- Posts by collection
+<!-- Posts by collection 
 {% for collection in site.collections %}
 {% assign name = collection.label %}
   <h1>{{ name }}</h1>
@@ -66,6 +66,16 @@ Hello
   {% endfor %}
 {% endfor %}
 -->
+
+<!-- Posts by specific collection -->
+
+<h1>TW</h1>
+{% for post in site.collections.technical-writing %}
+<ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+</ul>
+{% endfor %}
+
 
 
 <!-- List of all posts
