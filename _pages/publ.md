@@ -19,8 +19,9 @@ L o P
   <div class="pubinfo">
     {{ pub.forum }}, {{ pub.year}}
   </div>
-</div>
-<div class="publinks">
+  <div class="publinks">
   &#9658; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9658; <a href="{{pub.arxiv}}">arXiV</a> 
+  </div>
 </div>
+
 {% endfor %}
