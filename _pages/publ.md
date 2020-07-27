@@ -17,7 +17,7 @@ L o P
     {{ pub.authors }}
   </div>
   <div class="pubinfo">
-    {{ pub.publication }}, {{ pub.year}}
+    {{ pub.conf }}, {{ pub.year}}
   </div>
 </div>
 {% endfor %}
