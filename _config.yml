@@ -266,7 +266,9 @@ compress_html:
     envs: development
 
 collections:
-  technical-posts
+  technical-posts:
+    output: true
+    permalink: pretty
   publications:
     output: true
     permalink: /:collection/:name
