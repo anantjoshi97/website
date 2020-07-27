@@ -13,3 +13,5 @@ main:
     subfolderitems:
       - Page 1
       - url: /splash-page/
+      - Page 2
+      - url: /writing/
