@@ -70,7 +70,7 @@ Hello
 <!-- Posts by specific collection -->
 
 <h1>TW</h1>
-{% for post in site.technical-writing %}
+{% for post in site.technical-posts %}
 <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
