@@ -267,6 +267,9 @@ compress_html:
 
 collections:
   - technical-posts
+  - publications:
+    output: true
+    permalink: /:collection/:name
 
 
 # Defaults
