@@ -1,5 +1,6 @@
 ---
 title: "Post: Quote"
+date:   2015-06-29 10:00:55 +0530
 categories:
   - Blog
 tags:
