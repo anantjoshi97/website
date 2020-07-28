@@ -9,7 +9,7 @@ author_profile: true
 
 Hello
 
-<!-- Posts by year
+<!-- Posts by year-->
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
@@ -21,8 +21,9 @@ Hello
   {% endfor %}
 </ul>
 {% endfor %}
--->
 
+
+<!--
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
@@ -38,6 +39,8 @@ Hello
 </ul>
 {% endfor %}
 {% endfor %}
+-->
+
 
 <!-- Posts by specific tag and year 
 {% assign postsByYear = site.tags.Post-Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
