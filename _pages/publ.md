@@ -20,7 +20,7 @@ L o P
     {{ pub.forum }}, {{ pub.year}}
   </div>
   <div class="publinks">
-  &#9658; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9658; <a href="{{pub.arxiv}}">arXiV</a> 
+  &#9679; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9679; <a href="{{pub.arxiv}}">arXiV</a> 
   </div>
 </div>
 
