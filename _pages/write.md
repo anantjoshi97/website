@@ -9,7 +9,7 @@ author_profile: true
 
 Hello
 
-<!-- Posts by year-->
+<!-- Posts by year
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h1>{{ year.name }}</h1>
@@ -21,7 +21,7 @@ Hello
   {% endfor %}
 </ul>
 {% endfor %}
-
+-->
 
 <!--
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
@@ -86,14 +86,14 @@ Hello
 {% endfor %}
 -->
 
-<!-- Posts by specific collection 
+<!-- Posts by specific collection -->
 <h1>TW</h1>
 {% for post in site.technical-posts %}
 <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
 {% endfor %}
--->
+
 
 
 <!-- List of all posts
