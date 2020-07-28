@@ -83,15 +83,14 @@ Hello
 {% endfor %}
 -->
 
-<!-- Posts by specific collection -->
-
+<!-- Posts by specific collection 
 <h1>TW</h1>
 {% for post in site.technical-posts %}
 <ul>
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 </ul>
 {% endfor %}
-
+-->
 
 
 <!-- List of all posts
