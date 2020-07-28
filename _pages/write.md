@@ -23,6 +23,25 @@ Hello
 {% endfor %}
 -->
 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h1>{{ year.name }}</h1>
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
+{% for month in postsByMonth %}
+<h2>{{ month.name }}</h2>
+<ul>
+  {% for post in month.items %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>{{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+{% endfor %}
+{% endfor %}
+
 <!-- Posts by specific tag and year 
 {% assign postsByYear = site.tags.Post-Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
