@@ -113,6 +113,10 @@ body {
     font-size: 0.8em;
   }
 
+  ul{
+    list-style-type: disc;
+    }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
