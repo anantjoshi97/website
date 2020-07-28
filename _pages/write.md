@@ -33,8 +33,7 @@ Hello
 <ul>
   {% for post in month.items %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <br>{{ post.excerpt }}
+      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date_to_long_string }} </a>      
     </li>
   {% endfor %}
 </ul>
