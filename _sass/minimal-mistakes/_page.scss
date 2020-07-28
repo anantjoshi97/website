@@ -114,7 +114,8 @@ body {
   }
 
   ul{
-    list-style-type: disc;
+    list-style-type: "\2022"; /* "\25CF" */
+    line-height:80%;
     }
 
   li{
