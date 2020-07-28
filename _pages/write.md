@@ -25,18 +25,18 @@ Hello
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h1>{{ year.name }}</h1>
-{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-{% for month in postsByMonth %}
-<h2>{{ month.name }}</h2>
-<ul>
-  {% for post in month.items %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date_to_long_string }} </a>      
-    </li>
+  <h1>{{ year.name }}</h1>
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% for month in postsByMonth %}
+  <h2>{{ month.name }}</h2>
+  <ul>
+    {% for post in month.items %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date_to_long_string }} </a>      
+      </li>
+    {% endfor %}
+  </ul>
   {% endfor %}
-</ul>
-{% endfor %}
 {% endfor %}
 
 <!-- Posts by specific tag and year 
