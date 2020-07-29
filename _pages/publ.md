@@ -9,7 +9,9 @@ L o P
 <h1 class="mt-4">Publications</h1>
 {% assign jp = site.publications | where_exp:"item","item.type == 'journal' "}
 
-<!-- {% assign publications = jp | sort: "date_of_entry" | reverse %} -->
+<!-- 
+{% assign publications = jp | sort: "date_of_entry" | reverse %} 
+-->
 
 {% for pub in jp %}
 <div class="pubitem">
