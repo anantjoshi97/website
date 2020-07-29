@@ -2,7 +2,7 @@
 layout: single
 title: "Trial"
 tags: 
-  -trial
+  - trial
 ---
 
 Trial
