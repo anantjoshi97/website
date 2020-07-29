@@ -7,8 +7,9 @@ permalink: /publications/
 L o P
 
 <h1 class="mt-4">Publications</h1>
+b
 {% assign jp = site.publications | where_exp:"item","item.type == 'journal' "}
-
+a
 <!-- 
 {% assign publications = jp | sort: "date_of_entry" | reverse %} 
 -->
