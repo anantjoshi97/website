@@ -30,6 +30,7 @@ layout: default
           {% if page.read_time %}
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
+          <p class="page__meta">{{page.date}}</p>
         </header>
       {% endunless %}
 
