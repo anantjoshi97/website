@@ -7,7 +7,7 @@ permalink: /publications/
 L o P
 
 <h1 class="mt-4">Publications</h1>
-{% assign jpublication = site.publications | where:"type","journal"}
+{% assign jpublications = site.publications | where:"type","journal"}
 {% assign publications = jpublications | sort: "date_of_entry" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
