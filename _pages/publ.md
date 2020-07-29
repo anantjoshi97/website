@@ -21,7 +21,7 @@ L o P
   </div>
   <div class="publinks">
   &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9679; <a href="{{pub.arxiv}}">arXiV</a>
-    &nbsp;&nbsp; &#9679; <a href="{{pub.url}}">Citation and Abstract</a>
+    &nbsp;&nbsp; &#9679; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
 </div>
 
