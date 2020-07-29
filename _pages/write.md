@@ -3,6 +3,7 @@ title: "Posts by Year"
 permalink: /writing/
 layout: single
 author_profile: true
+tag: trial
 #entries_layout: grid
 #show_excerpts: false # true (default), false
 ---
