@@ -132,11 +132,11 @@ a {
   }
 
   &:visited {
-    color: hotpink;
+    color: $link-color-visited;
   }
 
   &:hover {
-    color: red;
+    color: $link-color-hover;
     outline: 0;
     text-decoration: underline;
   }
@@ -149,11 +149,11 @@ a {
 
 a[rel="permalink"] {
     &:visited {
-    color: hotpink;
+    color: $link-color-visited;
   }
 
   &:hover {
-    color: red;
+    color: $link-color-hover;
     outline: 0;
     text-decoration: underline;
   }
