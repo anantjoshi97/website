@@ -9,20 +9,14 @@ L o P
 <h1 class="mt-4">Publications</h1>
 
 > <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
+> <a href="https://arxiv.org/a/joshi_a_4.html">arXiv author's page</a>
+> <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
-<cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
-
-<cite>A</cite>
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 
-
-aa
-
 {% assign publications = jp | sort: "date_of_entry" | reverse %}
-
-c
-
+{% if jp!=null %}
 {% for pub in publications %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -35,8 +29,9 @@ c
     {{ pub.forum }}, {{ pub.year}}
   </div>
   <div class="publinks">
-  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#9679; <a href="{{pub.arxiv}}">arXiV</a>
-    &nbsp;&nbsp; &#9679; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
 </div>
 {% endfor %}
+{% endif %}
