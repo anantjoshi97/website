@@ -28,7 +28,7 @@ publications:
   - title: "ORCID page"
     url: https://orcid.org/0000-0002-0890-2389
   - title: "Preprints"
-    url: /publications/
+    url: /publications/#pp
   - title: "Journal Publications"
     url: /publications/
   - title: "Conference Publications"
