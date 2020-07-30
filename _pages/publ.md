@@ -25,7 +25,7 @@ A list of publications is also available on my google scholar page above.
 {% assign pp_size = pp | size %}
 {% if pp_size > 0 %}
 {% assign pp_sorted = pp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4">Preprints</h2>
+<h2 class="mt-4" id="pp">Preprints</h2>
 {% for pub in pp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
