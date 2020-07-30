@@ -15,11 +15,11 @@ b
 
 aa
 
-
+{% assign publications = site.publications | sort: "date_of_entry" | reverse %}
 
 c
 
-{% for pub in jp %}
+{% for pub in publications %}
 <div class="pubitem">
   <div class="pubtitle">
     {{ pub.title }}
