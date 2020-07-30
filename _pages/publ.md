@@ -11,9 +11,10 @@ L o P
 b
 
 {% assign jp = site.publications | where_exp:"item","item.type == 'journal'"}
-aa
-{% assign publications = jp | sort: "date_of_entry" | reverse %} 
 
+aa
+
+{% assign publications = jp | sort: "date_of_entry" | reverse %} 
 
 c
 
