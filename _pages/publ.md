@@ -9,14 +9,18 @@ L o P
 <h1 class="mt-4">Publications</h1>
 
 > <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
+
 > <a href="https://arxiv.org/a/joshi_a_4.html">arXiv author's page</a>
+
 > <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 {% assign jp_size = jp | size %}
 {% if jp_size!=0 %}
-jp_size
+<script type="text/javascript">
+  document.write(jp_size)
+</script>
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
