@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HC
+title: HC J1
 authors: A
 type: journal
 forum: ICC
