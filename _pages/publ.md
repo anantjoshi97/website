@@ -14,12 +14,57 @@ L o P
 
 > <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
+{% assign pp = site.publications | where_exp: "item","item.type == 'preprint'" %}
+{% assign pp_size = pp | size %}
+{% if pp_size > 0 %}
+{% assign pp_sorted = pp | sort: "date_of_entry" | reverse %}
+{% for pub in pp_sorted %}
+<div class="pubitem">
+  <div class="pubtitle">
+    {{ pub.title }}
+  </div>
+  <div class="pubauthors">
+    {{ pub.authors }}
+  </div>
+  <div class="pubinfo">
+    {{ pub.forum }}, {{ pub.year}}
+  </div>
+  <div class="publinks">
+  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 {% assign jp_size = jp | size %}
 {% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
 {% for pub in jp_sorted %}
+<div class="pubitem">
+  <div class="pubtitle">
+    {{ pub.title }}
+  </div>
+  <div class="pubauthors">
+    {{ pub.authors }}
+  </div>
+  <div class="pubinfo">
+    {{ pub.forum }}, {{ pub.year}}
+  </div>
+  <div class="publinks">
+  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% assign cp = site.publications | where_exp: "item","item.type == 'conf'" %}
+{% assign cp_size = cp | size %}
+{% if cp_size > 0 %}
+{% assign cp_sorted = cp | sort: "date_of_entry" | reverse %}
+{% for pub in cp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
     {{ pub.title }}
