@@ -46,7 +46,7 @@ A list of publications is also available on my google scholar page above.
 {% assign jp_size = jp | size %}
 {% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4">Journal Publications</h2>
+<h2 class="mt-4" id="jp">Journal Publications</h2>
 {% for pub in jp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -70,7 +70,7 @@ A list of publications is also available on my google scholar page above.
 {% assign cp_size = cp | size %}
 {% if cp_size > 0 %}
 {% assign cp_sorted = cp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4">Conference Publications</h2>
+<h2 class="mt-4" id="cp">Conference Publications</h2>
 {% for pub in cp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
