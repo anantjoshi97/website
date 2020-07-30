@@ -14,9 +14,10 @@ L o P
 
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
-
-{% assign publications = jp | sort: "date_of_entry" | reverse %}
-{% if jp!=null %}
+{% assign jp_size = jp | size %}
+{% if jp_size!=0 %}
+jp_size
+{% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
 {% for pub in publications %}
 <div class="pubitem">
   <div class="pubtitle">
