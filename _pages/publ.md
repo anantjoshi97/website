@@ -10,15 +10,16 @@ L o P
 
 b
 
+{% assign jp = site.publications | where_exp:"item","item.type == 'journal'"}
 
 
 aa
 
-{% assign publications = site.publications | sort: "date_of_entry" | reverse %} 
+
 
 c
 
-{% for pub in publications %}
+{% for pub in jp %}
 <div class="pubitem">
   <div class="pubtitle">
     {{ pub.title }}
