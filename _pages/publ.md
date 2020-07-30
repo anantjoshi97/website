@@ -8,7 +8,7 @@ L o P
 
 <h1 class="mt-4">Publications</h1>
 
-> <cite><a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a></cite>
+> <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
 
 <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
 
