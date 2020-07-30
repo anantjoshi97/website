@@ -4,16 +4,15 @@ title: "P"
 permalink: /publications/
 ---
 
-L o P
-
-<h1 class="mt-4">Publications</h1>
-
 > <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
 
 > <a href="https://arxiv.org/a/joshi_a_4.html">arXiv author's page</a>
 
 > <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
+<h1 class="mt-4">List of Publications</h1>
+
+A list of publications is also available on my google scholar page above. 
 
 {% assign pp = site.publications | where_exp: "item","item.type == 'preprint'" %}
 {% assign pp_size = pp | size %}
