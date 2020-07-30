@@ -12,10 +12,10 @@ permalink: /publications/
 
 {% assign p = site.publications %}
 {% assign p_sorted = p | sort: "date_of_entry" | reverse %}
-{% assign p_first = p_sorted | first %}
+{% assign p_newest = p_sorted | first %}
 
 <h1 class="mt-4">List of Publications</h1>
-<p class="page__meta">{{ p_first.date_of_entry | date_to_long_string }}</p>
+<p class="page__meta">Updated on {{ p_first.date_of_entry | date_to_long_string }}</p>
 
 A list of publications is also available on my google scholar page above. 
 
