@@ -10,7 +10,7 @@ L o P
 
 b
 
-{% assign jp = site.publications | where_exp:"item","item.type == 'journal'"}
+{% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 
 
 aa
@@ -35,5 +35,4 @@ c
     &nbsp;&nbsp; &#9679; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
 </div>
-
 {% endfor %}
