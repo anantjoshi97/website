@@ -17,6 +17,7 @@ L o P
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 {% assign jp_size = jp | size %}
+document.write(jp_size)
 {% if jp_size!=0 %}
 <script type="text/javascript">
   document.write(jp_size)
