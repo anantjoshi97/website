@@ -16,8 +16,10 @@ L o P
 
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
+{% assign jp_size = jp | size %}
+{% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
-{% for pub in publications %}
+{% for pub in jp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
     {{ pub.title }}
@@ -34,8 +36,4 @@ L o P
   </div>
 </div>
 {% endfor %}
-
-{% assign jp_size = jp | size %}
-{% if jp_size > 0 %}
-JPS
 {% endif %}
