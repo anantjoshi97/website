@@ -9,12 +9,19 @@
   font-weight: bold;
 }
 
-.pubauthors, .pubinfo {
+.pubinfo {
   font-size: 75%;
+  /* margin-bottom: .75em; */
+}
+
+.pubauthors{
+  font-size: 75%;
+  font-style: italic;
   /* margin-bottom: .75em; */
 }
 
 .publinks {
   font-size: 75%;
+   margin-bottom: 1em; 
 }
 
