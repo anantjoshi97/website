@@ -1,8 +1,8 @@
 ---
 layout: single
-title: HC TWO
+title: HC P1
 authors: A
-type: conf
+type: preprint
 forum: ICC
 year: 2018
 doi: https://doi.org/10.1109/ICC47138.2019.9123166
