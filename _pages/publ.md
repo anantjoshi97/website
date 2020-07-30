@@ -10,7 +10,12 @@ permalink: /publications/
 
 > <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
+{% assign p = site.publications %}
+{% assign p_sorted = p | sort: "date_of_entry" | reverse %}
+{% assign p_first = p_sorted | first %}
+
 <h1 class="mt-4">List of Publications</h1>
+<p class="page__meta">{{ p_first.date_of_entry | date_to_long_string }}</p>
 
 A list of publications is also available on my google scholar page above. 
 
