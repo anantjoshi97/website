@@ -15,7 +15,9 @@ permalink: /publications/
 {% assign p_newest = p_sorted | first %}
 
 <h1 class="mt-4">List of Publications</h1>
-<p class="page__meta">Updated on {{ p_first.date_of_entry | date_to_long_string }}</p>
+
+<h1 id="page-title" class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+<p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
 
 A list of publications is also available on my google scholar page above. 
 
