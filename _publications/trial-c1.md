@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HC THREE
+title: HC C1
 authors: A
 type: conf
 forum: ICC
