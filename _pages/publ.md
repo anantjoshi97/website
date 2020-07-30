@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "P"
+title: "Publications"
 permalink: /publications/
 ---
 
@@ -13,11 +13,6 @@ permalink: /publications/
 {% assign p = site.publications %}
 {% assign p_sorted = p | sort: "date_of_entry" | reverse %}
 {% assign p_newest = p_sorted | first %}
-
-<h1 class="mt-4">List of Publications</h1>
-
-<h1 id="page-title" class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
-<p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
 
 <h1 class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
 <p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
