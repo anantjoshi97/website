@@ -34,7 +34,7 @@ A list of publications is also available on my google scholar page above.
   </div>
   <div class="publinks">
   &#8226; <a href="{{pub.arxiv}}">arXiV</a>
-    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Abstract</a>
   </div>
 </div>
 {% endfor %}
