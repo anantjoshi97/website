@@ -2,6 +2,8 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+sidebar:
+  nav: "publications"
 ---
 
 > <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
