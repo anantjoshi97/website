@@ -32,11 +32,8 @@ A list of publications is also available on my google scholar page above.
   <div class="pubauthors">
     {{ pub.authors }}
   </div>
-  <div class="pubinfo">
-    {{ pub.forum }}, {{ pub.year}}
-  </div>
   <div class="publinks">
-  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+  &#8226; <a href="{{pub.arxiv}}">arXiV</a>
     &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
 </div>
