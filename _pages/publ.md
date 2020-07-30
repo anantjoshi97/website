@@ -15,7 +15,7 @@ b
 
 aa
 
-{% assign publications = site.publications | sort: "date_of_entry" | reverse %}
+{% assign publications = jp | sort: "date_of_entry" | reverse %}
 
 c
 
