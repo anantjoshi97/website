@@ -16,30 +16,23 @@ L o P
 
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
-{% assign jp_size = jp | size %}
-<script type="text/javascript">
-  document.write(jp_size)
-</script>
-{% if jp_size!=0 %}
-<script type="text/javascript">
-  document.write(jp_size)
-</script>
-{% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
-{% for pub in publications %}
-<div class="pubitem">
-  <div class="pubtitle">
-    {{ pub.title }}
+{% if jp.size > 0 %}
+  {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
+  {% for pub in publications %}
+  <div class="pubitem">
+    <div class="pubtitle">
+      {{ pub.title }}
+    </div>
+    <div class="pubauthors">
+      {{ pub.authors }}
+    </div>
+    <div class="pubinfo">
+      {{ pub.forum }}, {{ pub.year}}
+    </div>
+    <div class="publinks">
+    &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+      &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+    </div>
   </div>
-  <div class="pubauthors">
-    {{ pub.authors }}
-  </div>
-  <div class="pubinfo">
-    {{ pub.forum }}, {{ pub.year}}
-  </div>
-  <div class="publinks">
-  &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
-    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
-  </div>
-</div>
-{% endfor %}
+  {% endfor %}
 {% endif %}
