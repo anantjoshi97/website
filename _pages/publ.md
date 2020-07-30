@@ -14,10 +14,12 @@ L o P
 
 > <a href="https://orcid.org/0000-0002-0890-2389">ORCID page</a>
 
+
 {% assign pp = site.publications | where_exp: "item","item.type == 'preprint'" %}
 {% assign pp_size = pp | size %}
 {% if pp_size > 0 %}
 {% assign pp_sorted = pp | sort: "date_of_entry" | reverse %}
+<h2 class="mt-4">Preprints</h2>
 {% for pub in pp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -41,6 +43,7 @@ L o P
 {% assign jp_size = jp | size %}
 {% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
+<h2 class="mt-4">Journal Publications</h2>
 {% for pub in jp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -64,6 +67,7 @@ L o P
 {% assign cp_size = cp | size %}
 {% if cp_size > 0 %}
 {% assign cp_sorted = cp | sort: "date_of_entry" | reverse %}
+<h2 class="mt-4">Conference Publications</h2>
 {% for pub in cp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
