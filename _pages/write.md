@@ -27,10 +27,10 @@ For those posts which contains narratives of my experiences through various acti
 <!-- Posts by year and month -->
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h1>{{ year.name }}</h1>
+<h2>{{ year.name }}</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
-<h2>{{ month.name }}</h2>
+<h3>{{ month.name }}</h3>
 {% assign postsByDate = month.items | sort:"date" | reverse %}
 <ul>
   {% for post in postsByDate %}
