@@ -42,6 +42,9 @@ A list of publications is also available on my google scholar page referenced ab
 </div>
 {% endfor %}
 {% endif %}
+{% if pp_size == 0 %}
+There are currently no preprints. 
+{% endif %}
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
 {% assign jp_size = jp | size %}
@@ -66,9 +69,7 @@ A list of publications is also available on my google scholar page referenced ab
 </div>
 {% endfor %}
 {% endif %}
-{% if jp_size == 0 %}
-There are currently no preprints. 
-{% endif %}
+
 
 {% assign cp = site.publications | where_exp: "item","item.type == 'conf'" %}
 {% assign cp_size = cp | size %}
