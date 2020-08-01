@@ -290,3 +290,15 @@ defaults:
       related: false
       sidebar:
         nav: posts
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false #true
+      read_time: false
+      comments: false # true
+      share: false
+      related: false
+      sidebar:
+        nav: publications
