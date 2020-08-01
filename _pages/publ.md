@@ -65,7 +65,8 @@ A list of publications is also available on my google scholar page referenced ab
   </div>
 </div>
 {% endfor %}
-{% else %}
+{% endif %}
+{% if jp_size == 0 %}
 There are currently no preprints. 
 {% endif %}
 
@@ -91,7 +92,7 @@ There are currently no preprints.
   </div>
   {% if pub.note %} 
   <div class="pubinfo">
-    {{ pub.note }}
+    Note: {{ pub.note }} 
   </div>
   {% endif %}
 </div>
