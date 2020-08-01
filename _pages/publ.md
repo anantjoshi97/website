@@ -17,7 +17,7 @@ sidebar:
 {% assign p_sorted = p | sort: "date_of_entry" | reverse %}
 {% assign p_newest = p_sorted | first %}
 
-<h1 class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+<h2 class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
 <p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
 
 A list of publications is also available on my google scholar page referenced above. 
@@ -26,7 +26,7 @@ A list of publications is also available on my google scholar page referenced ab
 {% assign pp_size = pp | size %}
 {% if pp_size > 0 %}
 {% assign pp_sorted = pp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4" id="pp">Preprints</h2>
+<h3 class="mt-4" id="pp">Preprints</h3>
 {% for pub in pp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -50,7 +50,7 @@ There are currently no preprints.
 {% assign jp_size = jp | size %}
 {% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4" id="jp">Journal Publications</h2>
+<h3 class="mt-4" id="jp">Journal Publications</h3>
 {% for pub in jp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
@@ -75,7 +75,7 @@ There are currently no preprints.
 {% assign cp_size = cp | size %}
 {% if cp_size > 0 %}
 {% assign cp_sorted = cp | sort: "date_of_entry" | reverse %}
-<h2 class="mt-4" id="cp">Conference Publications</h2>
+<h3 class="mt-4" id="cp">Conference Publications</h3>
 {% for pub in cp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
