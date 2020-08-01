@@ -37,14 +37,9 @@ publications:
         url: /publications/#cp
     
 posts:
-  - title: "Google Scholar page"
-    url: https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en
-  - title: "arXiv author's page"
-    url: https://arxiv.org/a/joshi_a_4.html
-  - title: "ORCID page"
-    url: https://orcid.org/0000-0002-0890-2389
-  - title: "Preprints"
-    url: /publications/#pp  
-  - title: "Conference Publications"
-    url: /publications/#cp
-  
+  - title: "All Posts"
+    url: /writing/
+  - title: "Technical"
+    url: /twriting/
+  - title: "Narrative"
+    url: /nwriting/
