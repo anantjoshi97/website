@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Publications"
+classes: wide
 permalink: /publications/
 sidebar:
   nav: "publications"
@@ -88,6 +89,11 @@ There are currently no preprints.
   &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
     &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
+  {% if pub.note %} 
+  <div class="pubinfo">
+    {{ pub.note }}
+  </div>
+  {% endif %}
 </div>
 {% endfor %}
 {% endif %}
