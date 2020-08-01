@@ -92,7 +92,7 @@ There are currently no preprints.
     &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
   </div>
   {% if pub.note %} 
-  <div class="pubinfo">
+  <div class="pubnote">
     Note: {{ pub.note }} 
   </div>
   {% endif %}
