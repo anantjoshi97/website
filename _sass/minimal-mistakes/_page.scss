@@ -115,11 +115,13 @@ body {
 
   ul{
     list-style-type: "\2022"; /* "\25CF" */
-    line-height:10%;
+    /* line-height:10%; */
+    margin-left: 1em;
     }
 
   li{
-    margin-top: 0.0em;    
+    margin-top: 0.0em;
+    padding-left: 1em;
   }
 
   li:first-child {
