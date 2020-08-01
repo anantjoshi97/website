@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Scribbles"
 permalink: /writing/
 layout: single
 sidebar:
