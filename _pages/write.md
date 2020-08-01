@@ -3,12 +3,12 @@ title: "Posts by Year"
 permalink: /writing/
 layout: single
 author_profile: true
-tags: trial
 #entries_layout: grid
 #show_excerpts: false # true (default), false
 ---
 
-Hello
+This page contains a list of all my writings on various topics. For the more technically oriented posts, visit this page. 
+For those posts which contains narratives of my experiences through various activities or phases, visit this page. 
 
 <!-- Posts by year 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
