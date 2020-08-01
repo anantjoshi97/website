@@ -29,10 +29,12 @@ publications:
     url: https://arxiv.org/a/joshi_a_4.html
   - title: "ORCID page"
     url: https://orcid.org/0000-0002-0890-2389
-  - title: "Preprints"
-    url: /publications/#pp  
-  - title: "Conference Publications"
-    url: /publications/#cp
+  - title: "List of Publications"
+    children:
+      - title: "Preprints"
+        url: /publications/#pp  
+      - title: "Conference Publications"
+        url: /publications/#cp
     
 posts:
   - title: "Google Scholar page"
