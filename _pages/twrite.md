@@ -10,6 +10,7 @@ sidebar:
 ---
 
 This page contains a list of all my technically oriented posts.
+
 <!-- Posts by year and month 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
