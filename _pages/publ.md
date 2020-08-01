@@ -19,7 +19,7 @@ sidebar:
 <h1 class="page__title" itemprop="headline">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
 <p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
 
-A list of publications is also available on my google scholar page above. 
+A list of publications is also available on my google scholar page referenced above. 
 
 {% assign pp = site.publications | where_exp: "item","item.type == 'preprint'" %}
 {% assign pp_size = pp | size %}
@@ -64,6 +64,8 @@ A list of publications is also available on my google scholar page above.
   </div>
 </div>
 {% endfor %}
+{% else %}
+There are currently no preprints. 
 {% endif %}
 
 {% assign cp = site.publications | where_exp: "item","item.type == 'conf'" %}
