@@ -269,7 +269,7 @@ compress_html:
 collections:
   technical-posts:
     output: true
-    permalink: pretty
+    permalink: /:collection/:name
   publications:
     output: true
     permalink: /:collection/:name
@@ -283,8 +283,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false #true
       read_time: false
       comments: false # true
       share: false
       related: false
+      sidebar:
+        nav: posts
