@@ -288,6 +288,7 @@ defaults:
       comments: false # true
       share: false
       related: false
+      title_in_header: false
       sidebar:
         nav: posts
   - scope:
@@ -300,5 +301,13 @@ defaults:
       comments: false # true
       share: false
       related: false
+      title_in_header: false
       sidebar:
         nav: publications
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      title_in_header: false
+      
