@@ -45,7 +45,7 @@ For those posts which contains narratives of my experiences through various acti
 <ul>
   {% for post in postsByDate %}
     <li>
-     {{ post.date | date_to_long_string }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
+     {{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
     </li>
   {% endfor %}
 </ul>
