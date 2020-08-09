@@ -31,7 +31,7 @@ layout: default
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
           {% if page.date %}
-            <p class="page__meta">{{page.date | date_to_long_string }}</p>
+            <p class="page__meta">{{page.date | date: "%B %-d, %Y" }}</p>
           {% endif %}
         </header>
       {% endunless %}
