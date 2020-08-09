@@ -203,6 +203,7 @@ body {
     .wrapper {
       padding-left: 1em;
       padding-right: 1em;
+      text-align: center;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
