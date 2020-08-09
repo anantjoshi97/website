@@ -11,6 +11,7 @@ header:
   image_description: "Image Description Custom"
   show_overlay_excerpt: true
   excerpt: "Excerpt custom"
+  tagline: "Tagline custom"
 title_in_header: true
 #entries_layout: grid
 #show_excerpts: false # true (default), false
