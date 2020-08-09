@@ -40,7 +40,7 @@ This page contains a list of all my technically oriented posts.
 <ul>
   {% for post in postsByDate %}
     <li>
-     {{ post.date | date_to_long_string }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
+     {{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
     </li>
   {% endfor %}
 </ul>
