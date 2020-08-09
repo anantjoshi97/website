@@ -10,6 +10,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   image_description: "Image Description Custom"
   show_overlay_excerpt: true
+  excerpt: "Excerpt custom"
 title_in_header: true
 #entries_layout: grid
 #show_excerpts: false # true (default), false
