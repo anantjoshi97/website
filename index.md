@@ -13,7 +13,7 @@ header:
   caption: "Photo credits: [Unsplash](https://unsplash.com/photos/62V7ntlKgL8)"
 title_in_header: false
 ---
-Hello, I am currently a first year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/).
+Hello, I am currently a first year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/).
 
 ## Education
 <ul>
