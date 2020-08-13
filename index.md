@@ -24,6 +24,9 @@ Supervisors: [Prof. Ravi Banavar](https://www.sc.iitb.ac.in/~banavar/) and [Prof
 </li>
 <li>M.Tech in Systems and Control Engineering <br> 
 Supervisors: [Prof. Ravi Banavar](https://www.sc.iitb.ac.in/~banavar/) and [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html)  
+<ul>
+<li> trial </li>
+</ul>  
 </li>
 </ul>
 </li>
