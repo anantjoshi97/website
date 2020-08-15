@@ -17,7 +17,7 @@ title_in_header: true
 #show_excerpts: false # true (default), false
 ---
 
-This page contains a list of all my writings, some derived from experience I have had with various events in my life, and some more technically oriented. To see a list of only the more technically oriented posts, visit this <a href="{{ '/twriting/' | relative_url }}"> page </a>. 
+This page contains a list of all my 'scribbles', some derived from experience I have had with various events in my life, and some more technically oriented. To see a list of only the more technically oriented posts, visit this <a href="{{ '/twriting/' | relative_url }}"> page </a>. 
 For only those posts which contain narratives of my experiences visit this <a href="{{ '/nwriting/' | relative_url }}"> page </a>. 
 
 <!-- Posts by year 
