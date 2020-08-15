@@ -30,6 +30,7 @@ publications:
   - title: "ORCID page"
     url: https://orcid.org/0000-0002-0890-2389
   - title: "List of Publications"
+    url: /publications/#lop
     children:
       - title: "Preprints"
         url: /publications/#pp  
