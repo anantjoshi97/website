@@ -15,12 +15,13 @@ title_in_header: false
 ---
 Hello, I am currently a first year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/).
 
-## Education
+## Education and Experience
 <ul>
 <li> Interdisciplinary Dual Degree, Indian Institute of Technology Bombay, 2020. 
 <ul>
 <li> B.Tech in Mechanical Engineering <br> 
-Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=6"> and Prof. Sanjeeva Maithripala </a> 
+Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=6"> and Prof. Sanjeeva Maithripala </a> <br>
+Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> T </a>
 </li>
 <li> M.Tech in Systems and Control Engineering <br> 
 Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> and <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html"> Prof. Debasish Chatterjee </a>
