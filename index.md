@@ -34,7 +34,7 @@ Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> Robust D
 </li>
 </ul>
 </li>
-<li> Internship in the University of Texas at Arlington, Summer 2018. <br> 
+<li> Internship in the <a href="https://www.uta.edu/">University of Texas at Arlington</a>, Summer 2018. <br> 
 Supervisor: <a href="https://blog.uta.edu/subbarao/"> Prof. Kamesh Subbarao </a> <br>
 Project Title: <a href="{{ '/publications/2019-uq' | relative_url }}"> Uncertainty Quantification And Analysis Of Dynamical Systems With Invariants </a>
 </li>
