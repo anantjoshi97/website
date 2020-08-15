@@ -116,7 +116,7 @@ $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default; */
 $link-color: #2a7ae2;
 $link-color-hover: red;
-$link-color-visited: darken($link-color, 25%);
+$link-color-visited: darken($link-color, 15%);
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
