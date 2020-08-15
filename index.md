@@ -15,17 +15,19 @@ title_in_header: false
 ---
 Hello, I am currently a first year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/).
 
+I received my <a href="#education-and-experience"> undergraduate degree </a> at the <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a>. During my time at IIT Bombay, I have been a part of the <a href="https://www.aero.iitb.ac.in/satlab/">Student Satellite Project</a> and the <a href="https://www.facebook.com/cds.srg/">Controls and Dynamical Systems Student Reading Group </a>.
+
 I have written (or rather, scribbled) about a few of my experiences <a href="{{ '/writing/' | relative_url }}"> here </a>. I may also write about some more academically or technically oriented topics in the future. 
 
 ## Education and Experience
 <ul>
-<li> Interdisciplinary Dual Degree, Indian Institute of Technology Bombay, 2020. 
+<li> Interdisciplinary Dual Degree, <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a>, 2020. 
 <ul>
-<li> B.Tech in Mechanical Engineering <br> 
+<li> B.Tech in <a href = "https://www.me.iitb.ac.in/">Mechanical Engineering</a> <br> 
 Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=6"> and Prof. Sanjeeva Maithripala </a> <br>
 Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> A Bundle Framework for Observer Design on Smooth Manifolds with Symmetry </a>
 </li>
-<li> M.Tech in Systems and Control Engineering <br> 
+<li> M.Tech in <a href="https://www.sc.iitb.ac.in/">Systems and Control Engineering</a> <br> 
 Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> and <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html"> Prof. Debasish Chatterjee </a> <br>
 Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> Robust Discrete-Time Pontryagin Maximum Principle on Matrix Lie Groups </a>
 </li>
