@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anant Joshi's Website"
+title                    : "Anant Joshi"
 title_separator          : "-"
-subtitle                 : "PhD Student, UIUC" # site tagline that appears below site title in masthead
+subtitle                 : "PhD Student, MechSE, UIUC" # site tagline that appears below site title in masthead
 name                     : "Anant Joshi"
-description              : "An amazing website."
+description              : "PhD Student, Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign"
 url                      : "https://anantjoshi97.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes-starter" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Anant Joshi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student, UIUC"
+  bio              : "PhD Student, MechSE, UIUC"
   location         : #"Somewhere"
   email            : anantaj2@illinois.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:anantaj2@illinois.edu"
+      # url: "mailto:anantaj2@illinois.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
