@@ -51,11 +51,12 @@ layout: default
         <h2> Publication Links </h2>
         {% if page.type == "preprint" %}
           <div>
-            &#8226; <a href="{{page.arxiv}}">arXiV</a> &nbsp;&nbsp; &#8226; <a href="#Abstract">Abstract</a>
+            &#8226; <a href="{{page.arxiv}}">arXiV</a> &nbsp;&nbsp; &#8226; <a href="#abstract">Abstract</a>
           </div>
         {% else %}
           <div>
-            &#8226; <a href="{{page.doi}}"> DOI </a> &nbsp;&nbsp; &#8226; <a href="{{page.arxiv}}">arXiV</a> &nbsp;&nbsp; &#8226; <a href="#Abstract">Abstract</a>
+            &#8226; <a href="{{page.doi}}"> DOI </a> &nbsp;&nbsp; &#8226; <a href="{{page.arxiv}}">arXiV</a> 
+            &nbsp;&nbsp; &#8226; <a href="#abstract">Abstract</a> &nbsp;&nbsp; &#8226; <a href="#citation">Citation</a>
           </div>
         {% endif %}
         {{ content }}        
