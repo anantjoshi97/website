@@ -1,10 +1,10 @@
 ---
 layout: single
-#classes: wide
+classes: wide
 author_profile: false
 permalink: /
 layout: single
-author_profile: false
+author_profile: true
 tagline: "Tagline custom"
 header:
   overlay_image: /assets/images/home-medium.jpg
