@@ -1,16 +1,16 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Typogaphy"
-    url: /typography/
-  - title: "Tags"
-    url: /tags/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Typogaphy"
+#    url: /typography/
+#  - title: "Tags"
+#    url: /tags/
   - title: "Scribbles"
     url: /writing/
-  - title: "Splash"
-    url: /splash-page/
-  - title: "Research"
-    url: /r/
+#  - title: "Splash"
+#    url: /splash-page/
+#  - title: "Research"
+#    url: /r/
   - title: "Publications"
     url: /publications/
 
@@ -41,5 +41,5 @@ posts:
     url: /writing/
   - title: "Technical"
     url: /twriting/
-  - title: "Narrative"
+  - title: "Narratives"
     url: /nwriting/
