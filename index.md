@@ -20,7 +20,7 @@ Hello, I am currently a first year PhD student in the [Department of Mechanical 
 <li> Interdisciplinary Dual Degree, Indian Institute of Technology Bombay, 2020. 
 <ul>
 <li> B.Tech in Mechanical Engineering <br> 
-Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=6"> Prof. Sanjeeva Maithripala </a> 
+Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> <a href="http://eng.pdn.ac.lk/ME/People/FacultyProfiles.php?id=6"> and Prof. Sanjeeva Maithripala </a> 
 </li>
 <li> M.Tech in Systems and Control Engineering <br> 
 Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> and <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html"> Prof. Debasish Chatterjee </a>
