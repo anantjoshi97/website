@@ -8,4 +8,4 @@ sidebar:
 
 ## Research Interests
 
-I am broadly interested in the mathematical theory of control and dynamical systems. My research interests in my undergraduate years have encompassed geometric control and observer design, optimal control and stochastic systems. My time at the student satellite project introduced me to spacecraft dynamics and control. A list of my publications is available <a href="{{ '/publications/' | relative_url }}"> here </a>. 
+I am broadly interested in the mathematical theory of control and dynamical systems. My Ph.D. research is yet to take a sufficiently concrete shape for me to write about. My research interests in my undergraduate years have encompassed geometric control and observer design, optimal control and stochastic systems. My time at the student satellite project introduced me to spacecraft dynamics and control. A list of my publications is available <a href="{{ '/publications/' | relative_url }}"> here </a>. 
