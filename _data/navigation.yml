@@ -10,7 +10,7 @@ main:
 #  - title: "Splash"
 #    url: /splash-page/
   - title: "Research"
-    url: /r/
+    url: /research/
   - title: "Publications"
     url: /publications/
 
