@@ -17,7 +17,7 @@ Hello, I am currently a first year PhD student in the [Department of Mechanical 
 
 I received my <a href="#education-and-experience"> undergraduate degree </a> at the <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a>. During my time at IIT Bombay, I have been a part of the <a href="https://www.aero.iitb.ac.in/satlab/">Student Satellite Project</a> and the <a href="https://www.facebook.com/cds.srg/">Controls and Dynamical Systems Student Reading Group </a>.
 
-I have written (or rather, scribbled) about a few of my experiences <a href="{{ '/writing/' | relative_url }}"> here </a>. I may also write about some more academically or technically oriented topics in the future. 
+I have written (or rather, scribbled) about a few of my experiences <a href="{{ '/writing/' | relative_url }}"> here</a>. I may also write about some more academically or technically oriented topics in the future. 
 
 ## Education and Experience
 <ul>
