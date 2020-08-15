@@ -2,8 +2,8 @@
 layout: single
 title: Research
 permalink: /research/
-sidebar:
-  nav: "research"
+#sidebar:
+#  nav: "research"
 ---
 
 ## Research Interests
