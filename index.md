@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide
+#classes: wide
 author_profile: false
 permalink: /
 layout: single
