@@ -100,7 +100,7 @@ author:
   email            : 
   links:
     - label: "anantaj2@illinois.edu"
-      icon: "far fa-fw fa-envelope-square"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:anantaj2@illinois.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
