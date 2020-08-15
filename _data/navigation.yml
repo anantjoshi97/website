@@ -9,8 +9,8 @@ main:
     url: /writing/
 #  - title: "Splash"
 #    url: /splash-page/
-#  - title: "Research"
-#    url: /r/
+  - title: "Research"
+    url: /r/
   - title: "Publications"
     url: /publications/
 
