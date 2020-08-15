@@ -15,6 +15,8 @@ title_in_header: false
 ---
 Hello, I am currently a first year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/).
 
+I have written (or rather, scribbled) about a few of my experiences <a href="{{ '/writing' | relative_url }}"> here </a>. I may also write about some more academically or technically oriented topics in the future. 
+
 ## Education and Experience
 <ul>
 <li> Interdisciplinary Dual Degree, Indian Institute of Technology Bombay, 2020. 
