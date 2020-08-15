@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research
-permalink: /r/
+permalink: /research/
 sidebar:
   nav: "research"
 ---
