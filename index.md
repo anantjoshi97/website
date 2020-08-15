@@ -30,11 +30,11 @@ Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> Robust D
 </ul>
 </li>
 <li> Internship in the University of Texas at Arlington, Summer 2018. <br> 
-Supervisor: <a href="https://blog.uta.edu/subbarao/"> Prof. Kamesh Subbarao </a> 
+Supervisor: <a href="https://blog.uta.edu/subbarao/"> Prof. Kamesh Subbarao </a> <br>
 Project Title: <a href="{{ '/publications/2019-uq' | relative_url }}"> Uncertainty Quantification And Analysis Of Dynamical Systems With Invariants </a>
 </li>
 <li> Research Project in the Indian Institute of Technology Bombay, May 2017 - April 2018. <br> 
-Supervisor: <a href="https://www.sc.iitb.ac.in/~asinha/"> Prof. Arpita Sinha </a> 
+Supervisor: <a href="https://www.sc.iitb.ac.in/~asinha/"> Prof. Arpita Sinha </a> <br>
 Project Title: <a href="{{ '/publications/2020-icc' | relative_url }}"> Modification of Hilbert's Space-Filling Curve to Avoid Obstacles: A Robotic Path-Planning Strategy </a>
 </li>
 </ul>
