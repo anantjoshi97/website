@@ -97,9 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student, MechSE, UIUC"
   location         : #"Somewhere"
-  email            : anantaj2@illinois.edu
+  email            : 
   links:
-    - label: "Email"
+    - label: "anantaj2@illinois.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:anantaj2@illinois.edu"
     - label: "Website"
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "mailto:anantaj2@illinois.edu"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
