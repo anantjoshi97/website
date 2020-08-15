@@ -101,7 +101,7 @@ author:
   links:
     - label: "anantaj2@illinois.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:anantaj2@illinois.edu"
+      url: "mailto:anantaj2@illinois.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,7 +140,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:anantaj2@illinois.edu"
 
 
