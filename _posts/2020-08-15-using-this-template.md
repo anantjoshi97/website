@@ -4,6 +4,11 @@ layout: single
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
 
+## Configuration
+
+* Change personal details in ```_config.yml```.
+* Change (or remove) the google analytics code in ```_includes/head.html```.
+
 ## Layouts
 
 ### Single
@@ -72,6 +77,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 
 * For hyperlink styling and decoration, make changes in ```  website/_sass/minimal-mistakes/_base.scss  ```.
 * For changing colours and font size, make changes in ```  website/_sass/minimal-mistakes/_variables.scss  ```.
+* To use mathmode, (```mathjs``` has been enabled in the head file, ```_includes/head.html```), encase text in ``` $$ ... $$ ```.
 * For printing a list of posts using <a href="https://jekyllrb.com/docs/liquid/filters/">liquid filters</a>, use the following code snippets as guidelines:
 
 {% highlight html %}
@@ -171,10 +177,4 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 {% endraw %}
 {% endhighlight %}
 
-config - personal details, SEO,
 
-## Mathmode
-
-change google analytics from head
-
-pubpage layout
