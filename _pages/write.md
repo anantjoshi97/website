@@ -5,13 +5,13 @@ layout: single
 sidebar:
   nav: posts
 author_profile: false
-tagline: "Tagline custom"
 excerpt: "Excerpt custom"  
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   image_description: "Image Description Custom"
   show_overlay_excerpt: true
+  caption: "Photo credits: [**Unsplash**](https://unsplash.com)"
 title_in_header: true
 #entries_layout: grid
 #show_excerpts: false # true (default), false
