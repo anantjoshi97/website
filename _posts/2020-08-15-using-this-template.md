@@ -35,6 +35,7 @@ After the front matter, add the abstract under after giving a heading ```## Abst
 
 The displayed output, on the Publications page, (for ```conf``` and ```journal```) will be
 
+<blockquote>
 <div class="pubitem">
   <div class="pubtitle">
     Title
@@ -50,6 +51,7 @@ The displayed output, on the Publications page, (for ```conf``` and ```journal``
     &nbsp;&nbsp; &#8226; <a href="publication_page">Citation and Abstract</a>
   </div>
 </div>
+</blockquote>
 
 For ```preprint``` the fields not used will not be displayed. The citation and abstract hyperlink will lead to a project page which contains the citation and abstract for
 ```conf``` and ```journal```, and only the abstract for ```preprint```.
