@@ -2,11 +2,13 @@
 layout: single
 ---
 
+This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
+
 ## Layouts
 
 ### Single
 
-https://mmistakes.github.io/minimal-mistakes/docs/layouts/#single-layout
+For documentation on using the single layout, refer to the <a href="https://mmistakes.github.io/minimal-mistakes/docs/layouts/#single-layout">documentation</a> of the original theme.
 
 I have added an additional paramater, ``` title_in_header``` for any file which uses the single layout, the default value for which is ```false``` and can be set to
 ```true``` as per requirement. This variable is supposed to be used if an overlay image in the header is used.
