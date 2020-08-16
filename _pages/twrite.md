@@ -21,9 +21,11 @@ This page contains a list of all my technically oriented posts. F
 {% assign postsByDate = month.items | sort:"date" | reverse %}
 <ul>
   {% for post in postsByDate %}
+  {% if post.display_post == true%}
     <li>
      {{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
     </li>
+  {% endif %}
   {% endfor %}
 </ul>
 {% endfor %}
