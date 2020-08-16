@@ -72,7 +72,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 
 * For hyperlink styling and decoration, make changes in ```  website/_sass/minimal-mistakes/_base.scss  ```.
 * For changing colours and font size, make changes in ```  website/_sass/minimal-mistakes/_variables.scss  ```.
-* For printing a list of posts, use the following code snippets as guidelines
+* For printing a list of posts using <a href="https://jekyllrb.com/docs/liquid/filters/">liquid filters</a>, use the following code snippets as guidelines:
 
 {% highlight html %}
 {% raw %}
