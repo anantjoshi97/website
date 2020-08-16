@@ -64,9 +64,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 ## Using hyperlinks
 
 * For external links, use either the ``` <a href> ``` command in html or ```[Link text](link) ``` syntax in markdown.
-* For internal links, use ``` <a href="{{ '/writing/' | relative_url }}"> ``` or ``` <a href="{{ '/writing/#section' | relative_url }}"> ``` for the same page, and ``` <a href="#abstract"> ``` for same page links.
-
-For details on using permalinks look here https://jekyllrb.com/docs/permalinks/
+* For an internal link to a different page with permalink ```/page/```, use ``` <a href="{{ '/page/' | relative_url }}"> ``` or ``` <a href="{{ '/page/#section' | relative_url }}"> ``` to reference a section on that page, and ``` <a href="#abstract"> ``` for same linking to a section on the same page. For more on referencing see this <a href="https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown"> answer</a> on stackoverflow. For details on using permalinks look <a href="https://jekyllrb.com/docs/permalinks/"> here</a>.
 
 ## Colours and Fonts
 
