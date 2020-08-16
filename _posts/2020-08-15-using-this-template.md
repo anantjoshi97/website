@@ -15,17 +15,19 @@ Since pages do not use an overlay image by default, its default value is set to 
 
 ### Pubpage
 
+For each publication, add a markdown file under the ```/publications``` directory and use the ```pubpage``` layout.
+
 {% highlight yaml %}
 ---
-layout: pubpage #single
-title: "Modification of Hilbert's Space-Filling Curve to Avoid Obstacles: A Robotic Path-Planning Strategy"
-authors:  Anant A. Joshi, Maulik C. Bhatt, Arpita Sinha
-type: conf
-forum:  Sixth Indian Control Conference (ICC)
-year: December, 2019
-doi: https://doi.org/10.1109/ICC47138.2019.9123166
-arxiv: https://arxiv.org/abs/1910.03210
-date_of_entry: 2020-07-30 22:54:30 +0530
+layout: pubpage 
+title: "Title of publication in quotes. Markdown syntax allowable. Mathmode does not work."
+authors:  "Authors in quotes"
+type: type_of_publication #conf (for conference), journal, preprint
+forum:  "Place of publication" #for conf and journal
+year: "Month and Year of Publication" #for conf and journal. for journal, add volume as well. 
+doi: doi_link #without quotes
+arxiv: arxiv_link #without quotes
+date_of_entry: date #when this publication was added to your website, used for indexing purposes
 ---
 {% endhighlight %}
 
@@ -47,6 +49,8 @@ looping over tags, collections
 page front matter - various options
 
 config - personal details, SEO,
+
+## Mathmode
 
 change google analytics from head
 
