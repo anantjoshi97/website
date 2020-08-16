@@ -9,7 +9,7 @@ sidebar:
 #show_excerpts: false # true (default), false
 ---
 
-This page contains a list of all my technically oriented posts. D
+This page contains a list of all my technically oriented posts. E
 
 {% assign postsByYearToDisplay = site.tags.technical-writing | where_exp:"item", "item.display_post == true" %}
 {% assign postsByYear = site.tags.technical-writing | group_by_exp:"post", "post.date | date: '%Y'" | where_exp:"item", "item.display_post == 'true'" %}
