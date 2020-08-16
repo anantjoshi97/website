@@ -18,7 +18,7 @@ sidebar:
 {% assign p_newest = p_sorted | first %}
 
 <h2 class="page__title" itemprop="headline" id="lop">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
-<p class="page__meta"> Updated on {{ p_newest.date_of_entry | date_to_long_string }} </p>
+<p class="page__meta"> Updated on {{ p_newest.date_of_entry | date: "%B %-d, %Y" }} </p>
 
 A more extensive and updated list of publications is available on my google scholar page referenced above. 
 
