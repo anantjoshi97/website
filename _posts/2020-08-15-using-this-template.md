@@ -1,5 +1,9 @@
 ---
 layout: single
+tag: technical-writing
+title: "Using This Template"
+date: 2020-08-16 21:34:00 +0530
+last_modified_at: 2020-08-17 21:34:00 +0530
 ---
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
@@ -78,6 +82,11 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 * For hyperlink styling and decoration, make changes in ```  website/_sass/minimal-mistakes/_base.scss  ```.
 * For changing colours and font size, make changes in ```  website/_sass/minimal-mistakes/_variables.scss  ```.
 * To use mathmode, (```mathjs``` has been enabled in the head file, ```_includes/head.html```), encase text in ``` $$ ... $$ ```.
+
+## Grouping of Posts
+
+* For the more technically or scholastically oriented posts, use the tag ``` technical-writing ``` in the page front matter.
+For posts which are narratives, use the tag ``` narrative ```.
 * For printing a list of posts using <a href="https://jekyllrb.com/docs/liquid/filters/">liquid filters</a>, use the following code snippets as guidelines:
 
 {% highlight html %}
