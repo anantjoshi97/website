@@ -75,6 +75,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 * For printing a list of posts, use the following code snippets as guidelines
 
 {% highlight html %}
+{% raw %}
 <!-- List of all posts-->
 <ul>
   {% for post in site.posts %}
@@ -167,6 +168,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
   </ul>
   {% endfor %}
 {% endfor %}
+{% endraw %}
 {% endhighlight %}
 
 config - personal details, SEO,
