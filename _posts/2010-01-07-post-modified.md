@@ -8,6 +8,7 @@ tags:
   - Post-Formats
   - readability
   - standard
+  - technical-writing
 ---
 
 This post has been updated and should show a modified date if used in a layout.
