@@ -2,8 +2,8 @@
 layout: single
 tag: technical-writing
 title: "Using This Template"
-date: 2020-08-16 21:34:00 +0530
-last_modified_at: 2020-08-17 17:13:00 +0530
+date: 2020-08-15 17:13:00 +0530
+last_modified_at: 2020-08-16 21:36:00 +0530
 ---
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
