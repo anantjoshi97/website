@@ -269,7 +269,7 @@ compress_html:
   ignore:
     envs: development
     
-permalink: pretty #for posts
+#permalink: pretty #for posts only
 
 collections:
   technical-posts:
@@ -278,10 +278,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:name
-#  posts:
-#    output: true
-#    permalink: pretty
-
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title/
 
 # Defaults
 defaults:
