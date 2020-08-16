@@ -9,23 +9,21 @@ sidebar:
 #show_excerpts: false # true (default), false
 ---
 
-This page contains a list of all my technically oriented posts. F
+This page contains a list of all my technically oriented posts. G
 
-{% assign postsByYearToDisplay = site.tags.technical-writing | where_exp:"item", "item.display_post == true" %}
+{% assign postsByYearToDisplay = site.tags.technical-writing | where: "display_post", true %}
 {% assign postsByYear = site.tags.technical-writing | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
+{% for year in postsByYearToDisplay %}
 <h2>{{ year.name }}</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 <h3>{{ month.name }}</h3>
 {% assign postsByDate = month.items | sort:"date" | reverse %}
 <ul>
-  {% for post in postsByDate %}
-  {% if post.display_post == true %}
+  {% for post in postsByDate %}  
     <li>
      {{ post.date | date: "%B %-d, %Y" }} | <a href="{{ post.url | relative_url }}">{{ post.title }}</a>      
-    </li>
-  {% endif %}
+    </li>  
   {% endfor %}
 </ul>
 {% endfor %}
