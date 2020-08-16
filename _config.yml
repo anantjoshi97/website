@@ -268,6 +268,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+permalink: pretty #for posts
 
 collections:
   technical-posts:
@@ -276,9 +278,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:name
-  posts:
-    output: true
-    permalink: pretty
+#  posts:
+#    output: true
+#    permalink: pretty
 
 
 # Defaults
