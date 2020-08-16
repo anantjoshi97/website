@@ -36,7 +36,7 @@ After the front matter, add the abstract under after giving a heading ```## Abst
 The displayed output, on the Publications page, (for ```conf``` and ```journal```) will be
 
 <blockquote>
-<div class="pubitem">
+<div class="pubitem" id="pubdisplay">
   <div class="pubtitle">
     Title
   </div>
@@ -47,14 +47,19 @@ The displayed output, on the Publications page, (for ```conf``` and ```journal``
     Forum, Year  
   </div>  
   <div class="publinks">
-  &#8226; <a href=""> DOI </a>&nbsp;&nbsp; &#8226; <a href="">arXiV</a>
-    &nbsp;&nbsp; &#8226; <a href="">Citation and Abstract</a>
+  &#8226; <a href="#pubdisplay"> DOI </a>&nbsp;&nbsp; &#8226; <a href="#pubdisplay">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="#pubdisplay">Citation and Abstract</a>
   </div>
 </div>
 </blockquote>
 
 For ```preprint``` the fields not used will not be displayed. The citation and abstract hyperlink will lead to a project page which contains the citation and abstract for
 ```conf``` and ```journal```, and only the abstract for ```preprint```.
+
+<div class="notice">
+  Hyperlinks have been disabled in this example of displayed output, and will point back to the example. 
+</div>
+
 
 ## Using hyperlinks
 
@@ -63,7 +68,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 
 For details on using permalinks look here https://jekyllrb.com/docs/permalinks/
 
-## Colours
+## Colours and Fonts
 
 hyperlink decoration
 
