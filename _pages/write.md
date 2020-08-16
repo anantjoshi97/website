@@ -5,7 +5,7 @@ layout: single
 sidebar:
   nav: posts
 author_profile: false
-excerpt: "Excerpt custom"  
+#excerpt: "Excerpt custom"  
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
