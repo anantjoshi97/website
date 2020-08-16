@@ -1,6 +1,7 @@
 ---
 title: "Post: Modified Date"
 date: 2016-03-09T16:20:02-05:00
+display_post: false
 categories:
   - Blog
 tags:
