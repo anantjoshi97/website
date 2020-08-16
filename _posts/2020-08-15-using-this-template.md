@@ -45,10 +45,10 @@ The displayed output, on the Publications page, (for ```conf``` and ```journal``
   </div>
   <div class="pubinfo">
     Forum, Year  
-  </div>
+  </div>  
   <div class="publinks">
-  &#8226; <a href="doi_link"> DOI </a>&nbsp;&nbsp; &#8226; <a href="arxiv_link">arXiV</a>
-    &nbsp;&nbsp; &#8226; <a href="publication_page">Citation and Abstract</a>
+  &#8226; <a href=""> DOI </a>&nbsp;&nbsp; &#8226; <a href="">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="">Citation and Abstract</a>
   </div>
 </div>
 </blockquote>
