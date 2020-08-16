@@ -66,17 +66,108 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 ## Using hyperlinks
 
 * For external links, use either the ``` <a href> ``` command in html or ```[Link text](link) ``` syntax in markdown.
-* For an internal link to a different page with permalink ```/page/```, use ``` <a href="{{ '/page/' | relative_url }}"> ``` or ``` <a href="{{ '/page/#section' | relative_url }}"> ``` to reference a section on that page, and ``` <a href="#abstract"> ``` for same linking to a section on the same page. For more on referencing see this <a href="https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown"> answer</a> on stackoverflow. For details on using permalinks look <a href="https://jekyllrb.com/docs/permalinks/"> here</a>.
+* For an internal link to a different page with permalink ```/page/```, use ``` <a href="{{ '/page/' | relative_url }}"> ``` or ``` <a href="{{ '/page/#section' | relative_url }}"> ``` to reference a section on that page, and ``` <a href="#abstract"> ``` for same linking to a section on the same page. For more on referencing see this <a href="https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown">answer</a> on stackoverflow. For details on using permalinks look <a href="https://jekyllrb.com/docs/permalinks/"> here</a>.
 
 ## Colours and Fonts
 
-hyperlink decoration
+* For hyperlink styling and decoration, make changes in ```  website/_sass/minimal-mistakes/_base.scss  ```.
+* For changing colours and font size, make changes in ```  website/_sass/minimal-mistakes/_variables.scss  ```.
+* For printing a list of posts, use the following code snippets as guidelines
 
-colours
+{% highlight html %}
+<!-- List of all posts-->
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-looping over tags, collections
+<!-- Posts by year -->
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h1>{{ year.name }}</h1>
+<ul>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}
 
-page front matter - various options
+
+<!-- Posts by year and month -->
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h1>{{ year.name }}</h1>
+{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+{% for month in postsByMonth %}
+<h2>{{ month.name }}</h2>
+{% assign postsByDate = month.items | sort:"date" | reverse %}
+<ul>
+  {% for post in postsByDate %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date_to_long_string }} </a>      
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endfor %}
+
+
+
+<!-- Posts by specific tag and year -->
+{% assign postsByYear = site.tags.Post-Formats | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h1>{{ year.name }}</h1>
+<ul>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+
+<!-- Posts by tag and year-->
+{% for tag in site.tags %}
+{% assign name = tag[0] %}
+<h1>{{ name }}</h1>
+{% assign postsByYear = tag[1] | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  <h1>{{ year.name }}</h1>
+  <ul>
+  {% for post in year.items %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}-{{ post.date | date_to_long_string }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+{% endfor %}
+
+<!-- Posts by specific collection -->
+<h1>TW</h1>
+{% for post in site.technical-posts %}
+<ul>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+</ul>
+{% endfor %}
+
+<!-- Posts by collection -->
+{% for collection in site.collections %}
+{% assign name = collection.label %}
+  <h1>{{ name }}</h1>
+  {% for post in site.[name] %}
+  <ul>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  </ul>
+  {% endfor %}
+{% endfor %}
+{% endhighlight %}
 
 config - personal details, SEO,
 
