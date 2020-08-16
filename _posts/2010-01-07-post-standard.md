@@ -7,6 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
+  - technical-writing
 date: 2017-06-28 10:00:55 +0530
 ---
 
