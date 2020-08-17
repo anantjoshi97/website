@@ -280,7 +280,7 @@ collections:
     permalink: /:collection/:name
   posts:
     output: true
-    permalink: /:collection/:year/:month/:day/:title/
+    permalink: /:collection/:year/:month/:day/:name
 
 # Defaults
 defaults:
