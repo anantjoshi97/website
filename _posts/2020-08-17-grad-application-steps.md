@@ -16,9 +16,9 @@ I have listed these steps in the order in which I executed them, you are free to
   <li> LoR
   <li> Resume/CV
   <li> SoP
-  <li> 
+  <li> a
 </ol>
 
-
+Let me begin by explaining why I chose to go through these steps in the order specified. 
 
 <h2 id="exams"> GRE and TOEFL </h2>
