@@ -296,7 +296,7 @@ defaults:
       share: false
       related: false
       title_in_header: false
-      display_post: true
+      display_post: display
       sidebar:
         nav: posts
   - scope:
