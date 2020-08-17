@@ -7,6 +7,7 @@ last_modified_at: 2020-08-16 21:36:00 +0530
 ---
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
+Look <a href="https://mmistakes.github.io/minimal-mistakes/year-archive/">here</a> for a set of sample posts.
 
 ## Configuration
 
