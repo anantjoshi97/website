@@ -9,17 +9,16 @@ sidebar:
 #show_excerpts: false # true (default), false
 ---
 
-This page contains a list of all my technically oriented posts. F
+This page contains a list of all my technically oriented posts. 
 
 {% assign postsByYearD = site.tags.technical-writing | where: "display_post", "display" %}
 {% assign postsByYear = site.tags.technical-writing | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYearD %}
+{% for year in postsByYear %}
 <h2>{{ year.name }}</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 <h3>{{ month.name }}</h3>
 {% assign postsByDate = month.items | sort:"date" | reverse %}
-{% if post.display_post == display %}
 <ul>
   {% for post in postsByDate %}  
     <li>
@@ -27,7 +26,6 @@ This page contains a list of all my technically oriented posts. F
     </li>  
   {% endfor %}
 </ul>
-{% endif %}
 {% endfor %}
 {% endfor %}
 
