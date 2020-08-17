@@ -274,13 +274,13 @@ compress_html:
 collections:
   technical-posts:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/:output_ext
   publications:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/:output_ext
   posts:
     output: true
-    permalink: /:collection/:year/:month/:day/:name
+    permalink: /:collection/:year/:month/:day/:title/:output_ext
 
 # Defaults
 defaults:
