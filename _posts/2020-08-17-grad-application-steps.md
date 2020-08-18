@@ -82,7 +82,8 @@ For people interested in applying to control theory, be sure look at (this is no
 | University | Programmes and Departments |
 |---|---|
 |[UIUC](https://illinois.edu/) | ME, ECE, AE, CSL | 
-|CalTech(CMS, ME), UT Austin(AE), University of Michigan at Ann Arbor(AE, Robotics), UCSB, UCB(ECE, ME), Queen's(Controls group in the mathematics department), Princeton(MAE), Cornell(ECE, AE).
+
+CalTech(CMS, ME), UT Austin(AE), University of Michigan at Ann Arbor(AE, Robotics), UCSB, UCB(ECE, ME), Queen's(Controls group in the mathematics department), Princeton(MAE), Cornell(ECE, AE).
 
 LoR requires SoP
 
