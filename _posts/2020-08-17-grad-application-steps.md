@@ -78,13 +78,23 @@ Visit the websites of various universities and browse through the list of profes
 * Places where eminent researchers in your field work
 * People whose papers or books you regularly refer to
 
-For people interested in applying to control theory, be sure look at (this is not an exchustive list, and is stated in no particular order) 
+This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people.
+
+For people interested in applying to control theory, be sure look at 
 
 | University | Programmes and Departments |
 |---|---|
-| <a href="https://illinois.edu/">UIUC</a> | [ME](http://mechanical.illinois.edu/), ECE, AE, CSL | 
+[CalTech](https://www.caltech.edu/) | [CMS](https://cms.caltech.edu/) | 
+| Cornell | [ECE](https://www.ece.cornell.edu/ece), [MAE](https://www.mae.cornell.edu/mae)|
+| [Princeton](https://www.princeton.edu/) | [MAE](https://mae.princeton.edu/) | 
+| [Queen's](https://www.queensu.ca/), Canada |[Control group](https://www.queensu.ca/mathstat/research/control-group) in the [mathematics department](https://www.queensu.ca/mathstat/home)| 
+| [UCB](https://www.berkeley.edu/) | [EECS](https://eecs.berkeley.edu/), [ME](https://me.berkeley.edu/)| 
+|[UCSB](https://www.ucsb.edu/)| [ME](https://me.ucsb.edu/), [ECE](https://www.ece.ucsb.edu/), [CCDC](https://www.ccdc.ucsb.edu/) |
+| <a href="https://illinois.edu/">UIUC</a> | [ME](http://mechanical.illinois.edu/), [ECE](https://ece.illinois.edu/), [AE](https://aerospace.illinois.edu/), [CSL](https://csl.illinois.edu/) |
+| [University of Michigan at Ann Arbor](https://umich.edu/) | [AE](https://aero.engin.umich.edu/), [Robotics](https://robotics.umich.edu/)|
+|[UT Austin](https://www.utexas.edu/) | [AE](https://www.ae.utexas.edu/) | 
 
-CalTech(CMS, ME), UT Austin(AE), University of Michigan at Ann Arbor(AE, Robotics), UCSB, UCB(ECE, ME), Queen's(Controls group in the mathematics department), Princeton(MAE), Cornell(ECE, AE).
+This is not an exchustive list, and is stated in a loosely alphabetical order. Use it as potential starting points in your search, but make sure you explore each mentioned item thoroughly, so that you do not lose out on any information. I may have missed certain departments or research groups in the universities mentioned, or missed universities themselves.
 
 LoR requires SoP
 
