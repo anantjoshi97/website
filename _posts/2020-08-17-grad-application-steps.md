@@ -16,7 +16,7 @@ I have listed these steps in the order which I followed, you are free to choose 
 
 <ol>
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
-  <li> Shortlisting the programmes and the professors </li>
+  <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
   <li> LoR </li>
   <li> Resume/CV </li>
   <li> SoP </li>
@@ -30,7 +30,7 @@ Let me begin by explaining why I chose to go through these steps in the order sp
 
 ### GRE
 
-The Graduate Record Exam (GRE) tests you on three parameters - quantitative, verbal and essay writing. I closely followed Kalpesh Krishna's posts on <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation.html">GRE</a> and <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">TOEFL preparation</a>. I used the same resources as mentioned in those blog posts (the books referred below are the same). Here are my suggestions in addition to those blog posts. I suggest some representarive times for each part of the preparation, which you should modify as per your comfort.
+The Graduate Record Exam (GRE) tests you on three parameters - quantitative, verbal and essay writing. I closely followed Kalpesh Krishna's posts on <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation.html">GRE</a> and <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">TOEFL preparation</a>. I will encourage you to read these posts as well. I used the same resources as mentioned in those blog posts (the books referred below are the same). Here are my suggestions in addition to those blog posts. I suggest some representarive times for each part of the preparation, which you should modify as per your comfort.
 
 #### Preparation Time
 
@@ -62,7 +62,27 @@ As per the heuristics I had heard, a score of 168/170 in quantitive, 155/170 in 
 
 TOEFL consists of four sections: reading, writing, listening and speaking. Reading and writing will not be very difficult after practising for GRE. I would suggest looking up the format of the questions and giving one practise test. For listening and speaking, I followed the resources <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">here</a>. I gave TOEFL within a few days of giving the GRE to ensure that my GRE preparing was still fresh. 
 
-As per the heuristics I had heard, a score of 90 or above in all sections was "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. 
+As per the heuristics I had heard, a total score of 90 or above in all sections was "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. Some programmes may require a certain minimum score on certain sections like listening or speaking since TAship appointments may depend on that. Some programmes do accept students not satisfying these imposed requirements and ask them to do an English course after entering the unversity. It's best to check the exact program specifics in all cases. 
+
+
+## Subject GRE
+
+Engineering programmes don't generally require a subject GRE, but some programmes may encourage one. For example, CalTech encourages the applicant to have the maths subject GRE for applying to the CMS programme. 
+
+<h2 id="shortlisting">Shortlisting Programmes and Professors</h2>
+
+Visit the websites of various universities and browse through the list of professors in your departments of interest. A few sources to get names of universities and professors are
+
+* QS World Rankings
+* Your advisor's university and advisor, and the university and advisor of the advisor's advisor and so on
+* Places where eminent researchers in your field work
+* People whose papers or books you regularly refer to
+
+For people interested in applying to control theory, be sure look at (this is not an exchustive list, and is stated in no particular order) 
+| University | Programmes and Departments |
+|---|---|
+|[UIUC](https://illinois.edu/) | ME, ECE, AE, CSL | 
+|CalTech(CMS, ME), UT Austin(AE), University of Michigan at Ann Arbor(AE, Robotics), UCSB, UCB(ECE, ME), Queen's(Controls group in the mathematics department), Princeton(MAE), Cornell(ECE, AE).
 
 LoR requires SoP
 
