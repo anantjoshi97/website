@@ -81,7 +81,7 @@ Visit the websites of various universities and browse through the list of profes
 For people interested in applying to control theory, be sure look at (this is not an exchustive list, and is stated in no particular order) 
 | University | Programmes and Departments |
 |---|---|
-|[UIUC](https://illinois.edu/) | ME, ECE, AE, CSL | 
+| <a href="https://illinois.edu/">UIUC</a> | ME(http://mechanical.illinois.edu/), ECE, AE, CSL | 
 
 CalTech(CMS, ME), UT Austin(AE), University of Michigan at Ann Arbor(AE, Robotics), UCSB, UCB(ECE, ME), Queen's(Controls group in the mathematics department), Princeton(MAE), Cornell(ECE, AE).
 
