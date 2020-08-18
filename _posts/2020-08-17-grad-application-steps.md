@@ -22,8 +22,8 @@ I have listed these steps in the order and timeframe which I followed, you are f
   <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
   <li> <a href="#lor">Letters of Recommendation </a> </li>
   <li> <a href="#prog-req">Listing Programme Requirements </a> </li>
-  <li> Resume/CV </li>
-  <li> SoP </li>
+  <li> <a href="#cv">Resume/CV </a> </li>
+  <li> <a href="#sop">Statement of Purpose </a> </li>
   <li> Submitting the application </li>
   <li> Interviews </li>
 </ol>
@@ -84,7 +84,7 @@ Visit the websites of various universities and browse through the list of profes
 
 This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people. Ask for opinions from professorsand senior students you know who work in the field and you can approach for advice. They will give you their opinions about the places and people you have chosen, and may make new suggestions as well, according to which you can suitably modify your list. I think a final number between 7-9 is fine. More on shortlisting will be discussed in the next section on letters of recommendation. 
 
-This list that you make might be modified slightly as you go along, if you receive new suggestions that are really good, or if some professors are not taking students, or a multitude of other reasons. Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
+This list that you make might be modified slightly as you go along, if you receive new suggestions that are really good, or if some professors are not taking students, or a multitude of other reasons. Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Include a **link** to your CV (and not the CV as an attachment). More on the CV in another section below. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
 
 For people interested in applying to control theory, be sure look at 
 
@@ -116,6 +116,14 @@ They might additionally ask you for your SoP and CV. If you have these documents
 * Prof. Prof. Shriram Krishnamurthi's <a href="https://cs.brown.edu/~sk/Memos/Reco-From-Me/">views</a>
 
 <h2 id="prog-req">Listing Programme Requirements</h2>
+
+This is a subtle but important step. Create accounts on all university application portals and carefully peruse their applications requirements. Some universities may have offbeat requirements, for example, University of Michigan at Ann Arbor asked us to like send an official (from the registrar's office) hard copy of the transcript along with a special application form before the application deadline. Fill up as much information on the application forms as possible to save time later.
+
+<h2 id="cv">Resume/CV</h2>
+
+Most CVs I saw when I was making mine were 3-4 pages long. Mine as well was 4 pages long. For those universities which imposed a page restriction I had to shorten it. For attaching your CV (recall, attach it as a link) in your email, you could prepare a short CV which the professor can quickly go through at a glance. Or you could include two links, one to a shorter version and one to a longer version so that the reader has a choice.
+
+<h2 id="sop">Statement of Purpose</h2>
 
 https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school
 
