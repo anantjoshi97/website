@@ -21,14 +21,15 @@ I have listed these steps in the order and timeframe which I followed, you are f
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
   <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
   <li> <a href="#lor">Letters of Recommendation </a> </li>
-  <li> <a href="#prog-req">Listing Programme Requirements </a> </li>
   <li> <a href="#cv">Resume/CV </a> </li>
+  <li> <a href="#email">Emailing </a> </li>
+  <li> <a href="#prog-req">Listing Programme Requirements </a> </li>    
   <li> <a href="#sop">Statement of Purpose </a> </li>
   <li> Submitting the application </li>
   <li> Interviews </li>
 </ol>
 
-Let me begin by explaining why I chose to go through these steps in the order specified. I studied for GRE and TOEFL in May and June since that was the time of my summer vacation and I had no academic coursework to look after. I appeared for both exams in the first week of July. I began browsing through the PhD programmes offered by various universities and the professors affiliated with those departments, in September after my mid-semester exam, since by then I had sufficient clarity on what fields I was already interested in or wanted to explore. By mid-October I'd shortlisted my own set of names, after which I began discussing these with senior students in my field and professors I knew. It was during this time that I asked my professors whether they would write letters of recommendations for me. From November, I began working on my CV and SoP which went on till the applications deadlines.
+Let me begin by explaining why I chose to go through these steps in the order specified. I studied for GRE and TOEFL in May and June since that was the time of my summer vacation and I had no academic coursework to look after. I appeared for both exams in the first week of July. I began browsing through the PhD programmes offered by various universities and the professors affiliated with those departments, in September after my mid-semester exam, since by then I had sufficient clarity on what fields I was already interested in or wanted to explore. By mid-October I'd shortlisted my own set of names, after which I began discussing these with senior students in my field and professors I knew. It was during this time that I asked my professors whether they would write letters of recommendations for me. Simultaneously, I made the first draft of my CV so that I could begin emailing professors, enquiring if they have open positions. From November, I first listed the exact requirements of each programme so that I would get ample time to prepare for anything unorthodox, and then began writing my SoP which went on till the applications deadlines.
 
 <h2 id="exams"> GRE and TOEFL </h2>
 
@@ -82,9 +83,7 @@ Visit the websites of various universities and browse through the list of profes
 * Places where eminent researchers in your field work
 * People whose papers or books you regularly refer to
 
-This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people. Ask for opinions from professorsand senior students you know who work in the field and you can approach for advice. They will give you their opinions about the places and people you have chosen, and may make new suggestions as well, according to which you can suitably modify your list. I think a final number between 7-9 is fine. More on shortlisting will be discussed in the next section on letters of recommendation. 
-
-This list that you make might be modified slightly as you go along, if you receive new suggestions that are really good, or if some professors are not taking students, or a multitude of other reasons. Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Include a **link** to your CV (and not the CV as an attachment). More on the CV in another section below. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
+This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people. Ask for opinions from professorsand senior students you know who work in the field and you can approach for advice. They will give you their opinions about the places and people you have chosen, and may make new suggestions as well, according to which you can suitably modify your list. I think a final number between 7-9 is fine. More on shortlisting will be discussed in the next section on letters of recommendation. This list that you make might be modified somewhat as you go along, if you receive new suggestions that are really good, or if some professors are not taking students, or a any other reasons. 
 
 For people interested in applying to control theory, be sure look at 
 
@@ -115,13 +114,34 @@ They might additionally ask you for your SoP and CV. If you have these documents
 * Prof. Julian McAuley's <a href="https://cseweb.ucsd.edu/~jmcauley/reference.html">views</a>
 * Prof. Prof. Shriram Krishnamurthi's <a href="https://cs.brown.edu/~sk/Memos/Reco-From-Me/">views</a>
 
+<h2 id="cv">Resume/CV</h2>
+
+Most CVs I saw when I was making mine were 3-4 pages long. Mine as well was 4 pages long. For those universities which imposed a page restriction I had to shorten it. For attaching your CV (recall, attach it as a link) in your email, you could prepare a short CV which the professor can quickly go through at a glance. Or you could include two links, one to a shorter version and one to a longer version so that the reader has a choice.
+
+<h2 id="email">Emailing</h2>
+
+In an email you basically introduce yourself and your credentials, express interest in the recipient's research and enquire if they is willing to offer you a position. Do **NOT** expect to receive a reply 
+
+### Time of Emailing
+
+There are two good time periods for sending emails to professors. One is before you submitting your application, and one after. In the former case, assuming you receive you guard against applying to people who aren't taking students at all, or 
+
+
+
+I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Sending an email before submitting your application ensures that you don't apply to professors not taking students, assuming of course that you receive replies. Include a **link** to your CV (and not the CV as an attachment). More on the CV in another section below. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
+
+
+Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. 
+
+Tell about grad students
+
+Tell about low reply rate
+
 <h2 id="prog-req">Listing Programme Requirements</h2>
 
 This is a subtle but important step. Create accounts on all university application portals and carefully peruse their applications requirements. Some universities may have offbeat requirements, for example, University of Michigan at Ann Arbor asked us to like send an official (from the registrar's office) hard copy of the transcript along with a special application form before the application deadline. Fill up as much information on the application forms as possible to save time later.
 
-<h2 id="cv">Resume/CV</h2>
 
-Most CVs I saw when I was making mine were 3-4 pages long. Mine as well was 4 pages long. For those universities which imposed a page restriction I had to shorten it. For attaching your CV (recall, attach it as a link) in your email, you could prepare a short CV which the professor can quickly go through at a glance. Or you could include two links, one to a shorter version and one to a longer version so that the reader has a choice.
 
 <h2 id="sop">Statement of Purpose</h2>
 
