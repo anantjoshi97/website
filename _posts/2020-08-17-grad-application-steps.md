@@ -3,7 +3,7 @@ layout: single
 tag: technical-writing
 title: "PhD Application Steps"
 date: 2020-08-17 21:06:00 +0530
-last_modified_at: 2020-08-17 21:06:00 +0530
+last_modified_at: 2020-08-18 21:06:00 +0530
 ---
 
 I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. 
@@ -99,6 +99,8 @@ For people interested in applying to control theory, be sure look at
 |[UT Austin](https://www.utexas.edu/) | [AE](https://www.ae.utexas.edu/) | 
 
 This is not an exchustive list, and is stated in a loosely alphabetical order. Use it as potential starting points in your search, but make sure you explore each mentioned item thoroughly, so that you do not lose out on any information. I may have missed certain departments or research groups in the universities mentioned, or missed universities themselves.
+
+<h2 id="lor"> Letter of Recommendations </h2>
 
 
 
