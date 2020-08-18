@@ -6,7 +6,7 @@ date: 2020-08-17 21:06:00 +0530
 last_modified_at: 2020-08-18 21:06:00 +0530
 ---
 
-I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. 
+I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. Secondly, quite a few of these steps (writing an SoP for example) might be new for you . Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
 
 I have listed these steps in the order and timeframe which I followed, you are free to choose otherwise. Typical PhD application deadlines for the US are between 1st to 15th December. 
 
@@ -102,10 +102,18 @@ This is not an exchustive list, and is stated in a loosely alphabetical order. U
 
 <h2 id="lor"> Letter of Recommendations </h2>
 
+Applications to engineering programmes in the US, for both master's and PhD, typically require at least 3 letters of recommendation. Some allow for more. For these letters, ask someone who you have interacted extensively with, and can advocate your excellent character and ability. Preferably, choose someone you have conducted research with or performed well in multiple courses with. Since the letter writing process is thought and effort intensive, make sure you ask them at least a month or month and a half in advance.  
+
+First and foremost, confirm with your letter writers the list of the people and places you intend to apply to. Discuss your university shortlist with them. Once they approve of your shortlist (or at least, the part for which they shall be one of your letter writers), confirm that they have agreed to write letters for you in each of those applications. These extra steps will circumvent any confusion or potential discomfiture at a later time. They might ask you to send them a list of deadlines and give you specific instructions on sending reminders to make sure that all letters are submitted successfully, make sure you adhere to it. 
+
+They might additionally ask you for your SoP and CV. If you have these documents ready, you can produce them immediately, or discuss a timeline with them on how you would be revising your drafts and at which stage of the draft would they like to see them. Look at these posts for more views on this topic (the last three links are taken from the appendix of the first)
+
+* Prof. Philip Guo's <a href="https://pg.ucsd.edu/asking-for-recommendation-letters.htm">views</a>
+* Prof. Scott Klemmer's <a href="https://d.ucsd.edu/srk/faq/#rec">views</a>
+* Prof. Julian McAuley's <a href="https://cseweb.ucsd.edu/~jmcauley/reference.html">views</a>
+* Prof. Prof. Shriram Krishnamurthi's <a href="https://cs.brown.edu/~sk/Memos/Reco-From-Me/">views</a>
 
 
-LoR requires SoP
 
-https://pg.ucsd.edu/asking-for-recommendation-letters.htm
+https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school
 
-https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html
