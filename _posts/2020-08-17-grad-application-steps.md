@@ -8,16 +8,18 @@ last_modified_at: 2020-08-17 21:06:00 +0530
 
 I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. 
 
-I have listed these steps in the order which I followed, you are free to choose otherwise. Typical PhD application deadlines for the US are between 1st to 15th December. 
+I have listed these steps in the order and timeframe which I followed, you are free to choose otherwise. Typical PhD application deadlines for the US are between 1st to 15th December. 
 
 |Timeframe | Step |
 |---|---|
 | May, June | <a href="#exams"> GRE and TOEFL </a> |
+| Mid-September to Mid-October | <a href="#shortlisting">Shortlisting programmes and professors</a> |
+| Late October | <a href="#lor">Letters of Recommendation </a> |
 
 <ol>
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
   <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
-  <li> LoR </li>
+  <li> <a href="#lor">Letters of Recommendation </a> </li>
   <li> Resume/CV </li>
   <li> SoP </li>
   <li> Submitting the application </li>
@@ -78,7 +80,9 @@ Visit the websites of various universities and browse through the list of profes
 * Places where eminent researchers in your field work
 * People whose papers or books you regularly refer to
 
-This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people.
+This process is a stale, tedious drag which will tax your focus and determination. A little company helps in such times to relieve the weariness and offers empathetic reassurance of it indeed being mundane. Tabulate your findings in a spreadsheet, and once you are satisfied with your initial shortlist (I think about 10-12 should be a good number for this) start speaking to people. Ask for opinions from professorsand senior students you know who work in the field and you can approach for advice. They will give you their opinions about the places and people you have chosen, and may make new suggestions as well, according to which you can suitably modify your list. I think a final number between 7-9 is fine. More on shortlisting will be discussed in the next section on letters of recommendation. 
+
+This list that you make might be modified slightly as you go along, if you receive new suggestions that are really good, or if some professors are not taking students, or a multitude of other reasons. Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
 
 For people interested in applying to control theory, be sure look at 
 
@@ -95,6 +99,8 @@ For people interested in applying to control theory, be sure look at
 |[UT Austin](https://www.utexas.edu/) | [AE](https://www.ae.utexas.edu/) | 
 
 This is not an exchustive list, and is stated in a loosely alphabetical order. Use it as potential starting points in your search, but make sure you explore each mentioned item thoroughly, so that you do not lose out on any information. I may have missed certain departments or research groups in the universities mentioned, or missed universities themselves.
+
+
 
 LoR requires SoP
 
