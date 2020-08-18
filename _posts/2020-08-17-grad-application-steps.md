@@ -15,11 +15,13 @@ I have listed these steps in the order and timeframe which I followed, you are f
 | May, June | <a href="#exams"> GRE and TOEFL </a> |
 | Mid-September to Mid-October | <a href="#shortlisting">Shortlisting programmes and professors</a> |
 | Late October | <a href="#lor">Letters of Recommendation </a> |
+| Early November | <a href="#prog-req">Listing Programme Requirements </a> |
 
 <ol>
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
   <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
   <li> <a href="#lor">Letters of Recommendation </a> </li>
+  <li> <a href="#prog-req">Listing Programme Requirements </a> </li>
   <li> Resume/CV </li>
   <li> SoP </li>
   <li> Submitting the application </li>
@@ -113,7 +115,7 @@ They might additionally ask you for your SoP and CV. If you have these documents
 * Prof. Julian McAuley's <a href="https://cseweb.ucsd.edu/~jmcauley/reference.html">views</a>
 * Prof. Prof. Shriram Krishnamurthi's <a href="https://cs.brown.edu/~sk/Memos/Reco-From-Me/">views</a>
 
-
+<h2 id="prog-req">Listing Programme Requirements</h2>
 
 https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school
 
