@@ -15,7 +15,13 @@ I have listed these steps in the order and timeframe which I followed, you are f
 | May, June | <a href="#exams"> GRE and TOEFL </a> |
 | Mid-September to Mid-October | <a href="#shortlisting">Shortlisting programmes and professors</a> |
 | Late October | <a href="#lor">Letters of Recommendation </a> |
+| Late October | <a href="#cv">Resume/CV </a> |
+| November, December (sans Christmas holiday season), January | <a href="#prog-req">Listing Programme Requirements </a> |
 | Early November | <a href="#prog-req">Listing Programme Requirements </a> |
+| November - Deadline | <a href="#sop">Statement of Purpose </a> |
+| Deadline | <a href="#submit">Submitting the Applications</a> |
+| January - April | Interviews |
+
 
 <ol>
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
@@ -25,7 +31,7 @@ I have listed these steps in the order and timeframe which I followed, you are f
   <li> <a href="#email">Emailing </a> </li>
   <li> <a href="#prog-req">Listing Programme Requirements </a> </li>    
   <li> <a href="#sop">Statement of Purpose </a> </li>
-  <li> Submitting the application </li>
+  <li> <a href="#submit">Submitting the Applications</a> </li>
   <li> Interviews </li>
 </ol>
 
@@ -126,6 +132,8 @@ In an email you basically introduce yourself and your credentials, express inter
 
 There are two good time periods for sending emails to professors. One is before you submitting your application, and one after. In the former case, assuming you receive you guard against applying to people who aren't taking students at all, or if your profile matches their interests they may encourage you to apply which is a positive sign indicatin that they've noticed you. Even if they don't reply, reading your email might be enough for them to notice you (I did get offers from professors who didn't reply to my emails). The second good time is after you submit your application. You could inform them that you have successfully completed your application. This may get them to notice you and have a look at your application. I emailed them at both times, the first time asking them if they have positions and the next time politely informing them of having completed my application.
 
+**Avoid** the time from 18th December (a week before Christmas) to 7th January (a week after new year), since this is typically holiday time. You can adjust both dates as you feel fit, but that is what I followed.
+
 ### Content
 
 I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Sending an email before submitting your application ensures that you don't apply to professors not taking students, assuming of course that you receive replies. Include a **link** to your CV (and not the CV as an attachment). More on the CV in another section below. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
@@ -173,3 +181,12 @@ The first draft that you write will generally be atrocious. It will undergo an e
 I would suggest having two sets of reviewers. One "close" set of 3-4 people, who will provide scrutinise your writing and provide detailed reviews, but do so speedily and be ready to do that same for multiple iterations. The second "outer" set of 10-15 people who would give high level comments and may do so at their own pace. The close reviewers would be ideal for reviewing your first draft and the outer reviewers would be ideal for the second draft. When the close reviewers review it, ask them to do so serially, i.e. only after you incorporate the changes made by the first person do you give the revision to the second person for review, and then to the third, then back to the first and so on. This is because in case you give it to two people at the same time, if you incorporate the changes made by one of them, since they would be so significant, it would outdate the copy which the other possesses and make their suggestions ineffective. For the second draft, you can send it to multiple reviwers paralelly, since the suggestions would be minor. 
 
 Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
+
+
+<h2 id="submit"> Submitting the Applications </h2> 
+
+Carefully check all your details. Make sure you have attached the correct SoP, CV and other supporting documents. 
+
+For more applications in the US, you will require an **international credit card** which can make payments in USD. For other applications, find out in advance if you require an international credit card and make sure you have one (either your own, or belonging to someone who you know) available when you submit the application. 
+
+<h2 id="intweviews"> Interviews </h2> 
