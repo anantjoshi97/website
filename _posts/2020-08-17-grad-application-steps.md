@@ -168,6 +168,10 @@ I structured my SoP as follows: a brief introduction to my motivation for a PhD,
 
 ### Revieweing the SoP
 
+The first draft that you write will generally be atrocious. It will undergo an extensive review process involving you re-reading it countless times and your reviewers making numerous suggestions. Usually, you would want the first few reviews to be detailed and comprehensive, because your draft will probably need that kind of input and critique. In the first few revision, your draft will undergo significant and fundametal changes. At the end of this cycle, the second draft thus produced it will be substantially different from your first draft and its quality will have more or less reached a saturation point, and you will end up making only minor changes or high level changes, but its core will essentially be intact.
+
+I would suggest having two sets of reviewers. One "close" set of 3-4 people, who will provide scrutinise your writing and provide detailed reviews, but do so speedily and be ready to do that same for multiple iterations. The second "outer" set of 10-15 people who would give high level comments and may do so at their own pace. The close reviewers would be ideal for reviewing your first draft and the outer reviewers would be ideal for the second draft. When the close reviewers review it, ask them to do so serially, i.e. only after you incorporate the changes made by the first person do you give the revision to the second person for review, and then to the third, then back to the first and so on. This is because the changes suggested
+
 reviewers
 
 prof lor sop
