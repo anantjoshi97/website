@@ -160,3 +160,8 @@ Express what aspects of the university and the programme attract you. For a PhD,
 I structured my SoP as follows: a brief introduction to my motivation for a PhD, my research areas till now, and the areas I'm interested in for the future. Then I described each of my projects (both research and others) and what I gained from each one of them, in terms of concrete knowledge or abstract qualities. I concluded this by adding some details on the coursework which I wanted to highlight. Subsequently, I summarised how my takeaway from the work done so far would help me as PhD student, laid out my research interests in detail. I concluded by explaining why I am interested in the particular university and the programme, and wrote about the professors or labs whose research I am particularly excited about.
 
 
+time taken
+
+reviewers
+
+prof lor sop
