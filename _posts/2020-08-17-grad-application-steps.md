@@ -134,6 +134,10 @@ I would suggest that you keep the email to three paragraphs. In the first paragr
 
 You could email graduate students who are a part of the professor's group as well, asking about the group culture, the professor's research directions and advising style, the overall experience of the student in the programme and other such questions.
 
+<h3> <a href="https://en.wikipedia.org/wiki/Brahmastra">Brahmastra</a> </h3>
+
+If one of your recommenders writes an email to a professor you're applying to, advocating you, that would offer a very strong boost (though of course, its not a 100% guarantee that you'll get through) to your application.
+
 <h2 id="prog-req">Listing Programme Requirements</h2>
 
 This is a subtle but important step. Create accounts on all university application portals and carefully peruse their applications requirements. Some universities may have offbeat requirements, for example, University of Michigan at Ann Arbor asked us to like send an official (from the registrar's office) hard copy of the transcript along with a special application form before the application deadline. Fill up as much information on the application forms as possible to save time later.
@@ -142,7 +146,9 @@ This is a subtle but important step. Create accounts on all university applicati
 
 <h2 id="sop">Statement of Purpose</h2>
 
-Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt). I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. 
+Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt). I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. I think about a month or month and a half is a good estimate for the time taken to write one.
+
+### Writing the SoP
 
 Your SoP should address the following aspects each of which are considered individually below
 
@@ -160,7 +166,7 @@ Express what aspects of the university and the programme attract you. For a PhD,
 I structured my SoP as follows: a brief introduction to my motivation for a PhD, my research areas till now, and the areas I'm interested in for the future. Then I described each of my projects (both research and others) and what I gained from each one of them, in terms of concrete knowledge or abstract qualities. I concluded this by adding some details on the coursework which I wanted to highlight. Subsequently, I summarised how my takeaway from the work done so far would help me as PhD student, laid out my research interests in detail. I concluded by explaining why I am interested in the particular university and the programme, and wrote about the professors or labs whose research I am particularly excited about.
 
 
-time taken
+### Revieweing the SoP
 
 reviewers
 
