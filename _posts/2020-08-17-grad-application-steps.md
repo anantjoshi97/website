@@ -145,5 +145,22 @@ This is a subtle but important step. Create accounts on all university applicati
 
 <h2 id="sop">Statement of Purpose</h2>
 
-https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school
+Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt). I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. 
+
+Your SoP should address the following aspects each of which are considered individually below
+
+* Your work so far, and how it has moulded you
+* Your motivation for the programme you're applying to
+* Your research interests, and your future goals
+* Your interest in the university, programme, and the specific lab or professor
+* 
+
+The SoP should primarily focus on your work so far, irrespective of domain, which establishes your competence and makes you a compelling candidate for the position you're applying to. For a PhD, this is primarily your research work so far (don't hesitate to include other projects if they add meaningful contribution to this) - even if its not strictly related to the area you're applying to, it reflects your qualities as a potential researcher. For a masters, it would be a combination of your research, coursework and other projects. For each of your projects, suucinctly state the problem statement and objective of the work and your contributions, conclusions and recommendations. Persuasively write about the impact, significance and importance of these contributions to the field. Then write about what you learnt from the project, both in terms of tangible knowledge (like getting acquainted with a certain software, or learning a new technique to solve an old problem) and abstract skills (getting an experience of defining a problem or converting an abstract problem into concrete mathematical form) or qualities (like determination, perseverance) that make you better suited for the position you're applying. This description of prior experience is the most important part of the SoP. It exhibits that you are a hardworking, determined, creative and proactive graduate student capable of paticipating in research (of course, you're not expected to be a fully independent researcher, but to display potential). If you have any publications or have preesented your work anywhere, be sure to mention them. Its up to you whether to arrange these projects chronologically or in order or importance, or in any other way you feel comfortable with.  
+
+Your motivation (which could include a childhood dream) towards the programme, can draw from your previous projects, or your excitement
+
+your research interests is a second part of this and 
+
+I structured my SoP as follows: a brief introduction to my motivation for a PhD, my research areas till now, and the areas I'm interested in for the future. Then I described each of my projects (both research and others) and what I gained from each one of them, in terms of concrete knowledge or abstract qualities. I concluded this by adding some details on the coursework which I wanted to highlight. Subsequently, I summarised how my takeaway from the work done so far would help me as PhD student, laid out my research interests in detail. I concluded by explaining why I am interested in the particular university and the programme, and wrote about the professors or labs whose research I am particularly excited about.
+
 
