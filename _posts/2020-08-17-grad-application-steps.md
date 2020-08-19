@@ -120,22 +120,19 @@ Most CVs I saw when I was making mine were 3-4 pages long. Mine as well was 4 pa
 
 <h2 id="email">Emailing</h2>
 
-In an email you basically introduce yourself and your credentials, express interest in the recipient's research and enquire if they is willing to offer you a position. Do **NOT** expect to receive a reply 
+In an email you basically introduce yourself and your credentials, express interest in the recipient's research and enquire if they is willing to offer you a position. Do **NOT** have high hopes about receiving a reply since the recipients receives a lot of such emails everyday, and it says **nothing bad** about your credentials or strength as an applicant.
 
 ### Time of Emailing
 
-There are two good time periods for sending emails to professors. One is before you submitting your application, and one after. In the former case, assuming you receive you guard against applying to people who aren't taking students at all, or 
+There are two good time periods for sending emails to professors. One is before you submitting your application, and one after. In the former case, assuming you receive you guard against applying to people who aren't taking students at all, or if your profile matches their interests they may encourage you to apply which is a positive sign indicatin that they've noticed you. Even if they don't reply, reading your email might be enough for them to notice you (I did get offers from professors who didn't reply to my emails). The second good time is after you submit your application. You could inform them that you have successfully completed your application. This may get them to notice you and have a look at your application. I emailed them at both times, the first time asking them if they have positions and the next time politely informing them of having completed my application.
 
-
+### Content
 
 I would suggest that you keep the email to three paragraphs. In the first paragraph, give a two line introduction of yourself with your department major and minor, academic performance index (CPI/GPA/CGPA), professors you're currently working with, and other such details. In the second paragraph, mention the titles of your projects and the names of the professors and one line on relevant contributions (or link to publication or reports if any). In the end, express what work of the professor you are interested in in by citing the areas, and in special cases one or two representative publications, and enquire politely but formally if they have positions available. Sending an email before submitting your application ensures that you don't apply to professors not taking students, assuming of course that you receive replies. Include a **link** to your CV (and not the CV as an attachment). More on the CV in another section below. Keep the email as short as possible, assuming that they are going to spend anywhere between 30 seconds to 2 minutes in reading it. You can find many other suggestions and tips across the internet on sending such emails. 
 
+### Graduate Students
 
-Once you have your shortlist, you can begin emailing the people who are in it, enquiring if they are taking students in the semster for which you're applying. 
-
-Tell about grad students
-
-Tell about low reply rate
+You could email graduate students who are a part of the professor's group as well, asking about the group culture, the professor's research directions and advising style, the overall experience of the student in the programme and other such questions.
 
 <h2 id="prog-req">Listing Programme Requirements</h2>
 
