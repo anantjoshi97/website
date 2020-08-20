@@ -39,7 +39,7 @@ Let me begin by explaining why I chose to go through these steps in the order sp
 
 <h2 id="exams"> GRE and TOEFL </h2>
 
-To keep the length of the current article short, this part has been delegated to a different article.
+To keep the length of the current article short, this part has been delegated to a different <a href="{{ '/posts/2020/08/24/grad-application-exams.html' | relative_url }}">article</a>.
 
 <h2 id="shortlisting">Shortlisting Programmes and Professors</h2>
 
@@ -113,7 +113,7 @@ This is a subtle but important step. Create accounts on all university applicati
 
 <h2 id="sop">Statement of Purpose</h2>
 
-To keep the length of the current article short, this part has been delegated to a different article.
+To keep the length of the current article short, this part has been delegated to a different <a href="{{ '/posts/2020/08/24/grad-application-sop.html' | relative_url }}">article</a>.
 
 <h2 id="submit"> Submitting the Applications </h2> 
 
@@ -123,7 +123,7 @@ For more applications in the US, you will require an **international credit card
 
 <h2 id="interviews"> Interviews </h2> 
 
-To keep the length of the current article short, this part has been delegated to a different <a href="{{ '/posts/2020/08/24/grad-application-interviews.html' | relative_url }}">article.
+To keep the length of the current article short, this part has been delegated to a different <a href="{{ '/posts/2020/08/24/grad-application-interviews.html' | relative_url }}">article</a>.
 
 <h2> Acknowledgements </h2> 
 I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
