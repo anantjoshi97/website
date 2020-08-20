@@ -123,7 +123,7 @@ For more applications in the US, you will require an **international credit card
 
 <h2 id="interviews"> Interviews </h2> 
 
-To keep the length of the current article short, this part has been delegated to a different article.
+To keep the length of the current article short, this part has been delegated to a different <a href="{{ '/posts/2020/08/24/grad-application-interviews.html' | relative_url }}">article.
 
 <h2> Acknowledgements </h2> 
 I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
