@@ -126,4 +126,4 @@ For more applications in the US, you will require an **international credit card
 To keep the length of the current article short, this part has been delegated to a different article.
 
 <h2> Acknowledgements </h2> 
-I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. Karan Chadha (who was one amongst those) suggested quite a few the ideas presented in the articles on graduate applications to me.
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
