@@ -52,3 +52,6 @@ The document produced at the end of the Draft Zero phase, will generally be atro
 After Draft One phase, you will end up making only minor changes or high level changes, but its core will essentially be intact. The macro reviewers would be ideal for the Draft Two phase. You can read now other SoPs for references, but do **NOT** lift any content verbatim or plagiarise. You can adopt the ideas used and implement them in your own way. In this phase, you can send it to multiple reviwers paralelly, since the suggestions would be minor. This phase took me about 6-8 days.
 
 Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
+
+<h2> Acknowledgements </h2> 
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
