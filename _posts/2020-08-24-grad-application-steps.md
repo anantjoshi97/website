@@ -2,8 +2,8 @@
 layout: single
 tag: narrative
 title: "PhD Application Steps"
-date: 2020-08-17 21:06:00 +0530
-last_modified_at: 2020-08-18 21:06:00 +0530
+date: 2020-08-24 21:06:00 +0530
+last_modified_at: 2020-08-24 22:06:00 +0530
 ---
 
 I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. Secondly, quite a few of these steps (writing an SoP for example) might be new for you . Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
@@ -154,7 +154,7 @@ This is a subtle but important step. Create accounts on all university applicati
 
 <h2 id="sop">Statement of Purpose</h2>
 
-Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt). I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. I think about a month or month and a half is a good estimate for the time taken to write one.
+Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt) - which would get it to something around 1000-1200 words. I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. I think about a month or month and a half is a good estimate for the time taken to write one.
 
 ### SoP Contents
 
@@ -185,7 +185,7 @@ This process is how I wrote my SoP. Let us divide the writing and reviewing proc
 | Draft Three | When you customise the SoP for each university, and impose word limits or other restrictions |
 
 We'll look at Draft Three first, then the rest.
-Until you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. You will tailor the master SoP as per particular university requirements. Its fine if you don't impose any word limits or other constraints on your master SoP, since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. For the university specific paragraph in the SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same. This part took me about 2 days per university, and I did it about 2 days before the application deadline. 
+Until you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. Its fine if you don't impose any word limits or other constraints on your master SoP (even the 2 page limit I'd mentioned earlier), since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. You can tailor the master SoP as per particular university requirements, and add the 2 page limit to it in the Draft Three phase. For the university specific paragraph in the master SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same. This part took me about 2 days per university, and I did it about 2 days before the application deadline. 
 
 In the Draft Zero phase, begin by spending a few days understanding how to write an SoP, and read up on the internet about this. Do **NOT** read any model SoPs or other people's SoPs as it will invariably influence yours. Read others' SoPs only after your first draft has been written. Take inspiration from the ideas used, but make sure you don't copy from them directly. Once you have an idea of what goes into an SoP, and how to structure it, list down everything that you would like to include, then start adding it to your document. Once you have satisfactorily written the SoP without external input, you're ready to send it for review, thus entering Draft One phase. The Draft Zero phase took me about 8-10 days to finish.
 
