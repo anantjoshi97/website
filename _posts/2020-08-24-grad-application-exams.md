@@ -12,7 +12,7 @@ I've written this particle as a part of a main article which summarises the esse
 
 ### GRE
 
-The Graduate Record Exam (GRE) tests you on three parameters - quantitative, verbal and essay writing. I closely followed Kalpesh Krishna's posts on <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation.html">GRE</a> and <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">TOEFL preparation</a>. I will encourage you to read these posts as well. I used the same resources as mentioned in those blog posts (the books referred below are the same). Here are my suggestions in addition to those blog posts. I suggest some representarive times for each part of the preparation, which you should modify as per your comfort.
+The Graduate Record Exam (GRE) tests you on three parameters - quantitative, verbal and essay writing. I closely followed Kalpesh Krishna's posts on <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation.html">GRE</a> and <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">TOEFL</a> preparation. I will encourage you to read these posts as well. I used the same resources as mentioned in those blog posts (the books referred below are the same). Here are my suggestions in addition to those blog posts. I suggest some representarive times for each part of the preparation, which you should modify as per your comfort.
 
 #### Preparation Time
 
