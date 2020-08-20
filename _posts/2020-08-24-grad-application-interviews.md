@@ -25,3 +25,6 @@ The interviewer might be someone whose research you have expressed interest in, 
   - Ask them about their view on internships. 
   - Ask them about funding, and whether they nominate their students for fellowships (fellowships are generally considered prestigious since you get paid by funds other than your advisor’s funds and that way you needn’t even TA).
 * Have an answer to why the university, department and professor. They may ask about your other applications. Be honest there. If asked about priority, it’s best to be honest, since even if you decline their offer, you may interact with them sometime later in the future.
+
+<h2> Acknowledgements </h2> 
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
