@@ -1,6 +1,6 @@
 ---
 title: "Narrative Writing"
-permalink: /nwriting/
+permalink: /narratives/
 layout: single
 sidebar:
   nav: posts
@@ -30,7 +30,7 @@ This page contains a list of all my narrative posts.
 {% endfor %}
 -->
 
-{% assign postsByYear = site.tags.narrative-writing | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.tags.narrative | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>{{ year.name }}</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
