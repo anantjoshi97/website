@@ -184,7 +184,8 @@ This process is how I wrote my SoP. Let us divide the writing and reviewing proc
 | Draft Two | When your SoP will be nearly finalised and you'll make smaller changes, and you can read other SoPs for reference |
 | Draft Three | When you customise the SoP for each university, and impose word limits or other restrictions |
 
-Untill you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. You will tailor the master SoP as per particular university requirements. Its fine if you don't impose any word limits or other constraints on your master SoP, since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. For the university specific paragraph in the SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same.
+We'll look at Draft Three first, then the rest.
+Until you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. You will tailor the master SoP as per particular university requirements. Its fine if you don't impose any word limits or other constraints on your master SoP, since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. For the university specific paragraph in the SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same. This part took me about 2 days per university, and I did it about 2 days before the application deadline. 
 
 In the Draft Zero phase, begin by spending a few days understanding how to write an SoP, and read up on the internet about this. Do **NOT** read any model SoPs or other people's SoPs as it will invariably influence yours. Read others' SoPs only after your first draft has been written. Take inspiration from the ideas used, but make sure you don't copy from them directly. Once you have an idea of what goes into an SoP, and how to structure it, list down everything that you would like to include, then start adding it to your document. Once you have satisfactorily written the SoP without external input, you're ready to send it for review, thus entering Draft One phase. The Draft Zero phase took me about 8-10 days to finish.
 
@@ -194,10 +195,7 @@ The document produced at the end of the Draft Zero phase, will generally be atro
 
 After Draft One phase, you will end up making only minor changes or high level changes, but its core will essentially be intact. The macro reviewers would be ideal for the Draft Two phase. You can read now other SoPs for references, but do **NOT** lift any content verbatim or plagiarise. You can adopt the ideas used and implement them in your own way. In this phase, you can send it to multiple reviwers paralelly, since the suggestions would be minor. This phase took me about 6-8 days.
 
-Now that 
-
 Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
-
 
 <h2 id="submit"> Submitting the Applications </h2> 
 
