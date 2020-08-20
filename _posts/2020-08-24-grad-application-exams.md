@@ -6,7 +6,9 @@ date: 2020-08-24 19:50:00 +0530
 last_modified_at: 2020-08-24 19:50:00 +0530
 ---
 
-I've written this particle as a part of a main article which summarises the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. This article particularly focusses on the GRE and TOEFL exams. 
+
+
+I've written this article as a part of an extended <a href="{{ '/posts/2020/08/24/grad-application-steps.html' | relative_url }}">article</a> which summarises the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. This article particularly focusses on the GRE and TOEFL exams. 
 
 <h2 id="exams"> GRE and TOEFL </h2>
 
