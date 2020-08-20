@@ -5,7 +5,7 @@ author_profile: false
 permalink: /
 layout: single
 author_profile: true
-tagline: " > 'I asked a ton of questions ... I'd rather risk embarrassment now than be embarrassed later (when I've won zero titles)' - Kobe Bryant, *The Mamba Mentality* "
+tagline: " 'I asked a ton of questions ... I'd rather risk embarrassment now than be embarrassed later (when I've won zero titles)' - Kobe Bryant, *The Mamba Mentality* "
 header:
   overlay_image: /assets/images/home-small.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background  
