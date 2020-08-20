@@ -30,7 +30,7 @@ Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> A Bundle
 </li>
 <li> M.Tech in <a href="https://www.sc.iitb.ac.in/">Systems and Control Engineering</a> <br> 
 Supervisors: <a href="https://www.sc.iitb.ac.in/~banavar/"> Prof. Ravi Banavar </a> and <a href="https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html"> Prof. Debasish Chatterjee </a> <br>
-Project Title: <a href="{{ '/publications/2019-jgm' | relative_url }}"> Robust Discrete-Time Pontryagin Maximum Principle on Matrix Lie Groups </a>
+Project Title: <a href="{{ '/publications/2020-roc' | relative_url }}"> Robust Discrete-Time Pontryagin Maximum Principle on Matrix Lie Groups </a>
 </li>
 </ul>
 </li>
@@ -40,6 +40,6 @@ Project Title: <a href="{{ '/publications/2019-uq' | relative_url }}"> Uncertain
 </li>
 <li> Research Project in the Indian Institute of Technology Bombay, May 2017 - April 2018. <br> 
 Supervisor: <a href="https://www.sc.iitb.ac.in/~asinha/"> Prof. Arpita Sinha </a> <br>
-Project Title: <a href="{{ '/publications/2020-icc' | relative_url }}"> Modification of Hilbert's Space-Filling Curve to Avoid Obstacles: A Robotic Path-Planning Strategy </a>
+Project Title: <a href="{{ '/publications/2019-icc' | relative_url }}"> Modification of Hilbert's Space-Filling Curve to Avoid Obstacles: A Robotic Path-Planning Strategy </a>
 </li>
 </ul>
