@@ -1,7 +1,7 @@
 ---
 layout: single
 tag: narrative
-title: "PhD Application Steps: Statement of Purpose"
+title: "Graduate Application Steps: Statement of Purpose"
 date: 2020-08-24 20:41:00 +0530
 last_modified_at: 2020-08-24 20:41:00 +0530
 ---
