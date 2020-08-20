@@ -1,7 +1,7 @@
 ---
 layout: single
 tag: narrative
-title: "PhD Application Steps: GRE and TOEFL Exams"
+title: "Graduate Application Steps: GRE and TOEFL Exams"
 date: 2020-08-24 20:50:00 +0530
 last_modified_at: 2020-08-24 20:50:00 +0530
 ---
