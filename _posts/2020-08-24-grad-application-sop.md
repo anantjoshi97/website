@@ -1,0 +1,54 @@
+---
+layout: single
+tag: narrative
+title: "PhD Application Steps: Statement of Purpose"
+date: 2020-08-24 20:41:00 +0530
+last_modified_at: 2020-08-24 20:41:00 +0530
+---
+
+I've written this particle as a part of a main article which summarises the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. This article particularly focusses on the Statement of Purpose. 
+
+<h2 id="sop">Statement of Purpose</h2>
+
+Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt) - which would get it to something around 1000-1200 words. I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. I think about a month or month and a half is a good estimate for the time taken to write one.
+
+### SoP Contents
+
+Your SoP should address the following aspects each of which are considered individually below
+
+* Your work so far, and how it has moulded you
+* Your motivation for the programme you're applying to
+* Your research interests, and your future goals
+* Your interest in the university, programme, and the specific lab or professor
+
+The SoP should primarily focus on your work so far, irrespective of domain, which establishes your competence and makes you a compelling candidate for the position you're applying to. For a PhD, this is primarily your research work so far (don't hesitate to include other projects if they add meaningful contribution to this) - even if its not strictly related to the area you're applying to, it reflects your qualities as a potential researcher. You need to demonstrate that you will be diligent, driven and competent in performing research. For a masters, it would be a combination of your research, coursework and other projects. For each of your projects, suucinctly state the problem statement and objective of the work and your contributions, conclusions and recommendations. Persuasively write about the impact, significance and importance of these contributions to the field. Then write about what you learnt from the project, both in terms of tangible knowledge (like getting acquainted with a certain software, or learning a new technique to solve an old problem) and abstract skills (getting an experience of defining a problem or converting an abstract problem into concrete mathematical form) or qualities (like determination, perseverance) that make you better suited for the position you're applying. This description of prior experience is the most important part of the SoP. It exhibits that you are a hardworking, determined, creative and proactive graduate student capable of paticipating in research (of course, you're not expected to be a fully independent researcher, but to display potential). If you have any publications or have preesented your work anywhere, be sure to mention them. Its up to you whether to arrange these projects chronologically or in order or importance, or in any other way you feel comfortable with. You can also cite examples of your communication or leadership skills, as they will subtly decorate your application.   
+
+Your motivation (which could include a childhood dream) towards the programme, and current research interests can draw from your previous projects, or your excitement towards a newly emerging field, or a field you had taken a course in and want to explore, or any other reason that you find yourself drawn towards it. Try as much as possible to connect these aspects with your previous work. Your research interests will tell the reader if you are a good fit to their programme. You can always mention your interests and say that you're open to other exciting ideas as well. Professors would look for graduate students who have their own opinions but who also can be moulded as per their thinking and advising style. Its good to add one line about what your want to do further (continue into academia, go into industry or whatever else you would like to do) and how this programme will help you on that path. 
+
+Express what aspects of the university and the programme attract you. For a PhD, find out the professors or labs whose research interests (fully or partially) you, give a short descrption of the work that you find interesting, and add how you will add value to their group. Convey that you have gone through their work in sufficient depth to understand the its scope and theme, and if possible, try to suggest new research directions.
+
+I structured my SoP as follows: a brief introduction to my motivation for a PhD, my research areas till now, and the areas I'm interested in for the future. Then I described each of my projects (both research and others) and what I gained from each one of them, in terms of concrete knowledge or abstract qualities. I concluded this by adding some details on the coursework which I wanted to highlight. Subsequently, I summarised how my takeaway from the work done so far would help me as PhD student, laid out my research interests in detail. I concluded by explaining why I am interested in the particular university and the programme, and wrote about the professors or labs whose research I am particularly excited about.
+
+### Writing and Getting Reviews on the SoP
+
+This process is how I wrote my SoP. Let us divide the writing and reviewing process of the SoP into four stages:
+
+| Name | Phase|
+|---|---|
+| Draft Zero | When you gather information about how to write an SoP, and write one yourself without any external input |
+| Draft One | When the feedback that you receive will markedly alter your SoP |
+| Draft Two | When your SoP will be nearly finalised and you'll make smaller changes, and you can read other SoPs for reference |
+| Draft Three | When you customise the SoP for each university, and impose word limits or other restrictions |
+
+We'll look at Draft Three first, then the rest.
+Until you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. Its fine if you don't impose any word limits or other constraints on your master SoP (even the 2 page limit I'd mentioned earlier), since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. You can tailor the master SoP as per particular university requirements, and add the 2 page limit to it in the Draft Three phase. For the university specific paragraph in the master SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same. This part took me about 2 days per university, and I did it about 2 days before the application deadline. 
+
+In the Draft Zero phase, begin by spending a few days understanding how to write an SoP, and read up on the internet about this. Do **NOT** read any model SoPs or other people's SoPs as it will invariably influence yours. Read others' SoPs only after your first draft has been written. Take inspiration from the ideas used, but make sure you don't copy from them directly. Once you have an idea of what goes into an SoP, and how to structure it, list down everything that you would like to include, then start adding it to your document. Once you have satisfactorily written the SoP without external input, you're ready to send it for review, thus entering Draft One phase. The Draft Zero phase took me about 8-10 days to finish.
+
+I would suggest having two sets of reviewers. One set of 3-4 people, who will painstakingly scrutinise your writing and provide detailed, coomprehensive reviews. In addition, they should be speedy (1-2 days) and be willing to do the same for multiple iterations. We will term these the *micro* reviewers. The second set of 10-15 people who would give high level comments and may do so at their own pace (6-8 days), that we will term the *macro* reviwers. Both will have their own roles, explained subsequently.
+
+The document produced at the end of the Draft Zero phase, will generally be atrocious, but it will entirely be your own with your own ideas. This is extremely important since reviewers would be tasked with only modifying your ideas and not creating entirely new ones. Moreover, since it's your SoP, most of the content should come from you. In the Draft One phase, the document will undergo an extensive review process involving you re-reading it countless times and your reviewers making numerous suggestions. Usually, you would want the first few reviews to be detailed and comprehensive, because your draft will probably need that kind of input and critique. In the first few revisions, your draft will undergo significant and fundametal changes. The micro reviewers would be ideal for this phase. Send the document to these reviewers serially, i.e. only after you incorporate the changes made by the first person, send the revised version to the second person for review, and after working on the second person's reviews send it to the third, then back to the first and so on. This is because in case you give it to two people at the same time, if you incorporate the changes made by one of them, since they would be so significant, it would outdate the copy which the other possesses and make the latter's suggestions ineffective. At the end of this cycle, the document thus produced it will be substantially different from what you began with, and its quality will have more or less reached a saturation point. This phase took me about 12-14 days. 
+
+After Draft One phase, you will end up making only minor changes or high level changes, but its core will essentially be intact. The macro reviewers would be ideal for the Draft Two phase. You can read now other SoPs for references, but do **NOT** lift any content verbatim or plagiarise. You can adopt the ideas used and implement them in your own way. In this phase, you can send it to multiple reviwers paralelly, since the suggestions would be minor. This phase took me about 6-8 days.
+
+Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
