@@ -3,7 +3,7 @@ layout: single
 tag: technical-writing
 title: "Using This Website Template"
 date: 2020-08-15 17:13:00 +0530
-last_modified_at: 2020-08-16 21:36:00 +0530
+last_modified_at: 2020-08-20 17:15:00 +0530
 ---
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
@@ -76,7 +76,7 @@ For ```preprint``` the fields not used will not be displayed. The citation and a
 ## Using hyperlinks
 
 * For external links, use either the ``` <a href> ``` command in html or ```[Link text](link) ``` syntax in markdown.
-* For an internal link to a different page with permalink ```/page/```, use ``` <a href="{{ '/page/' | relative_url }}"> ``` or ``` <a href="{{ '/page/#section' | relative_url }}"> ``` to reference a section on that page, and ``` <a href="#abstract"> ``` for same linking to a section on the same page. For more on referencing see this <a href="https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown">answer</a> on stackoverflow. For details on using permalinks look <a href="https://jekyllrb.com/docs/permalinks/"> here</a>.
+* For an internal link to a different page with permalink ```/permalink/```, use ``` <a href="{{ '/permalink/' | relative_url }}"> ``` or ``` <a href="{{ '/permalink/#section' | relative_url }}"> ``` to reference a section on that page, and ``` <a href="#section"> ``` for same linking to a section on the same page. For more on referencing see this <a href="https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown">answer</a> on stackoverflow. For details on using permalinks look <a href="https://jekyllrb.com/docs/permalinks/"> here</a>.
 
 ## Colours and Fonts
 
