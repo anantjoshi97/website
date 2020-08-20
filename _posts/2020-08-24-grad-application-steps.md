@@ -1,12 +1,12 @@
 ---
 layout: single
 tag: narrative
-title: "PhD Application Steps"
+title: "Graduate Application Steps"
 date: 2020-08-24 21:06:00 +0530
 last_modified_at: 2020-08-24 22:06:00 +0530
 ---
 
-I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. Secondly, quite a few of these steps (writing an SoP for example) might be new for you . Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
+I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. Secondly, quite a few of these steps (writing an SoP for example) might be new for you. Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
 
 I have listed these steps in the order and timeframe which I followed, you are free to choose otherwise. Typical PhD application deadlines for the US are between 1st to 15th December. 
 
@@ -39,46 +39,7 @@ Let me begin by explaining why I chose to go through these steps in the order sp
 
 <h2 id="exams"> GRE and TOEFL </h2>
 
-### GRE
-
-The Graduate Record Exam (GRE) tests you on three parameters - quantitative, verbal and essay writing. I closely followed Kalpesh Krishna's posts on <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation.html">GRE</a> and <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">TOEFL preparation</a>. I will encourage you to read these posts as well. I used the same resources as mentioned in those blog posts (the books referred below are the same). Here are my suggestions in addition to those blog posts. I suggest some representarive times for each part of the preparation, which you should modify as per your comfort.
-
-#### Preparation Time
-
-I took about 6 weeks (in my summer vacation) to prepare for the GRE - about two weeks in May and four in June. I attempted the GRE in the first week of July. Preparing in the summer helped me significantly since I did not have any academic course load to deal with simultaneously. A few peers who gave the exam in their semester faced this issue. I would recommend students with a four year course to consider their third year winter break (since presumably they would be off on their intership in their third yeam summer) and five year course students to consider their fourth year summer break to prepare for the exam.
-
-#### Verbal
-
-Preparation for the verbal section consists of two main components: vocubulary and practice. In the first four weeks, I focussed only on building vocabulary. I practised words from the Magoosh vocabulary flashcards <a href="https://gre.magoosh.com/flashcards/vocabulary">app</a>. This app contains 1000 words. I only did the basic and common sections from this (which were about 600), since I found the advanced section too difficult. After that, I moved on the Barron's Essential words for GRE <a href="https://www.amazon.in/Barron%60s-Essential-Words-Philip-Geer/dp/9387477010">book</a> where I first practised the 300 selected words then went on to the rest (the book has a total of 800 words). There is some overlap between both sources. I continued revising and learning new words for the next two weeks. I reckon about 6-8 weeks of regular (daily) practise should be adequate for this preparation. 
-
-After the first four weeks when I had a decent vocabulary built up, I began practising questions. I practised all questions from the ETS official GRE verbal reasoning practice questions <a href="https://www.amazon.in/Official-Verbal-Reasoning-Practice-Questions/dp/1259863484">book</a> and Barron's New GRE <a href="https://www.amazon.in/Barrons-New-GRE-Gre/dp/0764146165">book</a> (though I think any verbal practice questions book published by Barron's for the GRE should be fine). I would strongly recommend solving these questions under time limit, to get used to exam conditions. I feel that two weeks of regular problem solving should be enough.
-
-#### Essay Writing
-
-Two essays are required to be written: one where you analyse and critique an argument presented to you, and the other expressing your opinions on a topic of discussion. A good explanation of the expectations from both essays is given in the ETS official guide to the GRE general test <a href="https://www.amazon.in/Official-Guide-GRE-General-Test/dp/9352607376">book</a>. They also provide sample essays, and topics for practice. I practised all essays (with time limit) from here, and additionally essays from the practice tests that I had attempted. After the time limit (or the practice test) had elapsed, I rewrote my essays without a time limit as a way to enhance my practice.  All of them came with sample responses which I used for evaluating my essays (both, the version written with and without time limit). I think writing about 4-6 essays of both types would be good practice.
-
-#### Quantitative
-
-The quantitive section will be fairly straightforward for engineering students, and a revision of the concepts and formulae from the ETS official GRE quantitive reasoning practice questions <a href="https://www.amazon.in/Official-Quantitative-Reasoning-Practice-Questions/dp/9352607368">book</a> (with a bit of practice, as per your comfort) should be sufficient to get a good score (of 168 or higher). 
-
-#### Practice Tests
-
-I attempted the two online practice tests which were included with my registration. Other than that, practice tests can be obtained from various books like Manhattan, Barron's and even ETS.
-
-#### Typical Scores
-
-As per the heuristics I had heard, a score of 168/170 in quantitive, 155/170 in verbal and 4/6 in writing were "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. 
-
-### TOEFL
-
-TOEFL consists of four sections: reading, writing, listening and speaking. Reading and writing will not be very difficult after practising for GRE. I would suggest looking up the format of the questions and giving one practise test. For listening and speaking, I followed the resources <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">here</a>. I gave TOEFL within a few days of giving the GRE to ensure that my GRE preparing was still fresh. 
-
-As per the heuristics I had heard, a total score of 90 or above in all sections was "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. Some programmes may require a certain minimum score on certain sections like listening or speaking since TAship appointments may depend on that. Some programmes do accept students not satisfying these imposed requirements and ask them to do an English course after entering the unversity. It's best to check the exact program specifics in all cases. 
-
-
-## Subject GRE
-
-Engineering programmes don't generally require a subject GRE, but some programmes may encourage one. For example, CalTech encourages the applicant to have the maths subject GRE for applying to the CMS programme. 
+To keep the length of the current article short, this part has been delegated to a different article.
 
 <h2 id="shortlisting">Shortlisting Programmes and Professors</h2>
 
@@ -150,52 +111,9 @@ If one of your recommenders writes an email to a professor you're applying to, a
 
 This is a subtle but important step. Create accounts on all university application portals and carefully peruse their applications requirements. Some universities may have offbeat requirements, for example, University of Michigan at Ann Arbor asked us to like send an official (from the registrar's office) hard copy of the transcript along with a special application form before the application deadline. Fill up as much information on the application forms as possible to save time later.
 
-
-
 <h2 id="sop">Statement of Purpose</h2>
 
-Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt) - which would get it to something around 1000-1200 words. I would suggest that you read through various opinions available on the internet about writing SoPs. For one such post which also refers to a collection of many other posts is <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">here</a>. I think about a month or month and a half is a good estimate for the time taken to write one.
-
-### SoP Contents
-
-Your SoP should address the following aspects each of which are considered individually below
-
-* Your work so far, and how it has moulded you
-* Your motivation for the programme you're applying to
-* Your research interests, and your future goals
-* Your interest in the university, programme, and the specific lab or professor
-
-The SoP should primarily focus on your work so far, irrespective of domain, which establishes your competence and makes you a compelling candidate for the position you're applying to. For a PhD, this is primarily your research work so far (don't hesitate to include other projects if they add meaningful contribution to this) - even if its not strictly related to the area you're applying to, it reflects your qualities as a potential researcher. You need to demonstrate that you will be diligent, driven and competent in performing research. For a masters, it would be a combination of your research, coursework and other projects. For each of your projects, suucinctly state the problem statement and objective of the work and your contributions, conclusions and recommendations. Persuasively write about the impact, significance and importance of these contributions to the field. Then write about what you learnt from the project, both in terms of tangible knowledge (like getting acquainted with a certain software, or learning a new technique to solve an old problem) and abstract skills (getting an experience of defining a problem or converting an abstract problem into concrete mathematical form) or qualities (like determination, perseverance) that make you better suited for the position you're applying. This description of prior experience is the most important part of the SoP. It exhibits that you are a hardworking, determined, creative and proactive graduate student capable of paticipating in research (of course, you're not expected to be a fully independent researcher, but to display potential). If you have any publications or have preesented your work anywhere, be sure to mention them. Its up to you whether to arrange these projects chronologically or in order or importance, or in any other way you feel comfortable with. You can also cite examples of your communication or leadership skills, as they will subtly decorate your application.   
-
-Your motivation (which could include a childhood dream) towards the programme, and current research interests can draw from your previous projects, or your excitement towards a newly emerging field, or a field you had taken a course in and want to explore, or any other reason that you find yourself drawn towards it. Try as much as possible to connect these aspects with your previous work. Your research interests will tell the reader if you are a good fit to their programme. You can always mention your interests and say that you're open to other exciting ideas as well. Professors would look for graduate students who have their own opinions but who also can be moulded as per their thinking and advising style. Its good to add one line about what your want to do further (continue into academia, go into industry or whatever else you would like to do) and how this programme will help you on that path. 
-
-Express what aspects of the university and the programme attract you. For a PhD, find out the professors or labs whose research interests (fully or partially) you, give a short descrption of the work that you find interesting, and add how you will add value to their group. Convey that you have gone through their work in sufficient depth to understand the its scope and theme, and if possible, try to suggest new research directions.
-
-I structured my SoP as follows: a brief introduction to my motivation for a PhD, my research areas till now, and the areas I'm interested in for the future. Then I described each of my projects (both research and others) and what I gained from each one of them, in terms of concrete knowledge or abstract qualities. I concluded this by adding some details on the coursework which I wanted to highlight. Subsequently, I summarised how my takeaway from the work done so far would help me as PhD student, laid out my research interests in detail. I concluded by explaining why I am interested in the particular university and the programme, and wrote about the professors or labs whose research I am particularly excited about.
-
-### Writing and Getting Reviews on the SoP
-
-This process is how I wrote my SoP. Let us divide the writing and reviewing process of the SoP into four stages:
-
-| Name | Phase|
-|---|---|
-| Draft Zero | When you gather information about how to write an SoP, and write one yourself without any external input |
-| Draft One | When the feedback that you receive will markedly alter your SoP |
-| Draft Two | When your SoP will be nearly finalised and you'll make smaller changes, and you can read other SoPs for reference |
-| Draft Three | When you customise the SoP for each university, and impose word limits or other restrictions |
-
-We'll look at Draft Three first, then the rest.
-Until you enter Draft Three, you will be writing your *master* SoP - the document which will serve as your base for all your university specific SoPs. Its fine if you don't impose any word limits or other constraints on your master SoP (even the 2 page limit I'd mentioned earlier), since it may lead to a restriction in your flow of ideas. These details can be handled once all ideas are comfortably in place. You can tailor the master SoP as per particular university requirements, and add the 2 page limit to it in the Draft Three phase. For the university specific paragraph in the master SoP, select any one university and write about it, since when you modify this for other places, you will most probably replace the fine details with the correct ones while keeping the overall structure the same. This part took me about 2 days per university, and I did it about 2 days before the application deadline. 
-
-In the Draft Zero phase, begin by spending a few days understanding how to write an SoP, and read up on the internet about this. Do **NOT** read any model SoPs or other people's SoPs as it will invariably influence yours. Read others' SoPs only after your first draft has been written. Take inspiration from the ideas used, but make sure you don't copy from them directly. Once you have an idea of what goes into an SoP, and how to structure it, list down everything that you would like to include, then start adding it to your document. Once you have satisfactorily written the SoP without external input, you're ready to send it for review, thus entering Draft One phase. The Draft Zero phase took me about 8-10 days to finish.
-
-I would suggest having two sets of reviewers. One set of 3-4 people, who will painstakingly scrutinise your writing and provide detailed, coomprehensive reviews. In addition, they should be speedy (1-2 days) and be willing to do the same for multiple iterations. We will term these the *micro* reviewers. The second set of 10-15 people who would give high level comments and may do so at their own pace (6-8 days), that we will term the *macro* reviwers. Both will have their own roles, explained subsequently.
-
-The document produced at the end of the Draft Zero phase, will generally be atrocious, but it will entirely be your own with your own ideas. This is extremely important since reviewers would be tasked with only modifying your ideas and not creating entirely new ones. Moreover, since it's your SoP, most of the content should come from you. In the Draft One phase, the document will undergo an extensive review process involving you re-reading it countless times and your reviewers making numerous suggestions. Usually, you would want the first few reviews to be detailed and comprehensive, because your draft will probably need that kind of input and critique. In the first few revisions, your draft will undergo significant and fundametal changes. The micro reviewers would be ideal for this phase. Send the document to these reviewers serially, i.e. only after you incorporate the changes made by the first person, send the revised version to the second person for review, and after working on the second person's reviews send it to the third, then back to the first and so on. This is because in case you give it to two people at the same time, if you incorporate the changes made by one of them, since they would be so significant, it would outdate the copy which the other possesses and make the latter's suggestions ineffective. At the end of this cycle, the document thus produced it will be substantially different from what you began with, and its quality will have more or less reached a saturation point. This phase took me about 12-14 days. 
-
-After Draft One phase, you will end up making only minor changes or high level changes, but its core will essentially be intact. The macro reviewers would be ideal for the Draft Two phase. You can read now other SoPs for references, but do **NOT** lift any content verbatim or plagiarise. You can adopt the ideas used and implement them in your own way. In this phase, you can send it to multiple reviwers paralelly, since the suggestions would be minor. This phase took me about 6-8 days.
-
-Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
+To keep the length of the current article short, this part has been delegated to a different article.
 
 <h2 id="submit"> Submitting the Applications </h2> 
 
@@ -205,19 +123,5 @@ For more applications in the US, you will require an **international credit card
 
 <h2 id="intweviews"> Interviews </h2> 
 
-Once you are admitted, you'll have an interview with a professors representing the department or programme. These arrive anytime between January to April so be patient. Your peers (who might have applied to the same programme, or may have a similar application to yours) may receive calls before this or after this. It is very natural to consciously or unconscioisly compare with them, but please try not to do that, since your applications, however similar they look, are two entirely different entities, and will naturally be processed differently. When you receive a decision on your application is not an indicator of its quality.
-
-The interviewer might be someone whose research you have expressed interest in, or it might be someone from the admissions committee (or perhaps someone else entirely). The aim of the interview is to get to know you better, in terms of your previous research work and further interests and your expectations from the programme, and also for you to understand the programme better and be able to ask any questions you might have. This helps them determine your fit with the programme. Treat it as another interaction with one of your peers, but in a more formal setting. Since you have already established your competence through your SoP and CV, don't think of it as a stressful job interview where you have to answer a barrage of technical questions to prove your ability. Yes, some people may ask you technical questions or give you a problem to solve, but they would not be too concerned about your exact answer as long as your approach was fine. Even if you falter you won't be instantly pounced upon or rejected and you can always email them later with the correct answer. Here are a few concrete suggestions for the interview:
-
-* Take notes during the interview. They will help you later if you have multiple offers.
-* Be prepared with an answer to “tell me about yourself”, since this is typically the opening question. Include a summary of your relevant work (research, coursework, technical projects). It should be a walkthrough of your resume. Try to keep it to 5 minutes. Make sure to emphasize details which you would like to highlight about yourself, which could be difficult coursework you have undertaken, your perseverance, or anything else.
-* The professor may ask you what you want to work on next. Have an idea of what you want to work on. It could also be that you are open to exploring new areas that you find interesting. You could as well have a specific area in mind. It could be a mix of both wherein you have a broad area in mind but are open to specific topics. It would be good if you could justify some motivation for any area that you quote. The motivation could also be that you want to explore that area and you haven’t before. In that case show how you are a good learner and can pick up that topic quickly. 
-* Be prepared with questions for them. Ask them questions which will affect your stay in their lab or group. Ask them about their advising style, research group culture, projects, collaborations. A few examples are:
-  - Ask about their current research. Ask about their collaborations.
-  - Ask about the freedom they typically give graduate students with respect to their research topics. Do they expect the student to come up with ideas and drive the research or do they have preset areas in their mind where they would like you to work in? This will give you an idea of what their advising style is and if it suits you.
-  - Ask about meeting frequency and times. Whether they have individual or group meetings.  
-  - Ask if they require their students to take a particular set of courses or are students free to choose. 
-  - Ask them about their view on internships. 
-  - Ask them about funding, and whether they nominate their students for fellowships (fellowships are generally considered prestigious since you get paid by funds other than your advisor’s funds and that way you needn’t even TA).
-* Have an answer to why the university, department and professor. They may ask about your other applications. Be honest there. If asked about priority, it’s best to be honest, since even if you decline their offer, you may interact with them sometime later in the future.
+To keep the length of the current article short, this part has been delegated to a different article.
 
