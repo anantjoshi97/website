@@ -50,3 +50,6 @@ As per the heuristics I had heard, a total score of 90 or above in all sections 
 ## Subject GRE
 
 Engineering programmes don't generally require a subject GRE, but some programmes may encourage one. For example, CalTech encourages the applicant to have the maths subject GRE for applying to the CMS programme. 
+
+<h2> Acknowledgements </h2> 
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
