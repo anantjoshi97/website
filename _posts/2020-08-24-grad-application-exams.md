@@ -42,16 +42,18 @@ I attempted the two online practice tests which were included with my registrati
 
 As per the heuristics I had heard, a score of 168/170 in quantitive, 155/170 in verbal and 4/6 in writing were "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. 
 
+### Subject GRE
+
+Engineering programmes don't generally require a subject GRE, but some programmes may encourage one. For example, CalTech encourages the applicant to have the maths subject GRE for applying to the CMS programme. 
+
 ### TOEFL
 
 TOEFL consists of four sections: reading, writing, listening and speaking. Reading and writing will not be very difficult after practising for GRE. I would suggest looking up the format of the questions and giving one practise test. For listening and speaking, I followed the resources <a href="https://martiansideofthemoon.github.io/2017/12/07/gre-toefl-preparation-2.html">here</a>. I gave TOEFL within a few days of giving the GRE to ensure that my GRE preparing was still fresh. 
 
-As per the heuristics I had heard, a total score of 90 or above in all sections was "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. Some programmes may require a certain minimum score on certain sections like listening or speaking since TAship appointments may depend on that. Some programmes do accept students not satisfying these imposed requirements and ask them to do an English course after entering the unversity. It's best to check the exact program specifics in all cases. 
+As per the heuristics I had heard, a total score of 90 or above was "acceptable" for the programmes I was applying to. You can choose to follow these heuristics or create your own benchmarks after speaking to people or checking specific application requirements. Some programmes may require a certain minimum score on certain sections like listening or speaking since TAship appointments may depend on that. Some programmes do accept students not satisfying these imposed requirements and ask them to do an English course after entering the unversity. It's best to check the exact program specifics in all cases. 
 
 
-## Subject GRE
 
-Engineering programmes don't generally require a subject GRE, but some programmes may encourage one. For example, CalTech encourages the applicant to have the maths subject GRE for applying to the CMS programme. 
 
 <h2> Acknowledgements </h2> 
 I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
