@@ -15,7 +15,7 @@ Your Statement of Purpose (SoP) is essentially what you would say at an intervie
 <li> A <a href="https://grad.berkeley.edu/admissions/apply/statement-purpose/">writeup</a> by the University of California, Berkeley </li>
 <li> A <a href="https://grad.ucla.edu/asis/agep/advsopstem.pdf">writeup</a> by the University of California, Los Angeles <\li>
 <li> A <a href="https://www.cs.umd.edu/grad/writing-statement-of-pupose">writeup</a> by the University of Maryland <\li>
-<li>This <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">post</a> refers to many resources. 
+<li>This <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">post</a> has a few guideline and refers to many resources. 
 </ul>
 
 I think about a month or month and a half is a good estimate for the time taken to write one.
