@@ -3,7 +3,7 @@ layout: single
 tag: narrative
 title: "Graduate Application Steps: GRE and TOEFL Exams"
 date: 2020-08-24 19:50:00 +0530
-last_modified_at: 2020-08-24 19:50:00 +0530
+last_modified_at: 2020-08-26 23:14:00 +0530
 ---
 
 
@@ -56,4 +56,4 @@ As per the heuristics I had heard, a total score of 90 or above was "acceptable"
 
 
 <h2> Acknowledgements </h2> 
-I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me. My thanks to Riya for reviewing the article.
