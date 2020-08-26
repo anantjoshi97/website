@@ -22,7 +22,7 @@ I think about a month or month and a half is a good estimate for the time taken 
 
 ### SoP Contents
 
-Your SoP should address the following aspects each of which are considered individually below
+I would suggest that your SoP should address the following aspects each of which are considered individually below
 
 * Your work so far, and how it has moulded you
 * Your motivation for the programme you're applying to
