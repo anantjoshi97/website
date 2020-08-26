@@ -16,7 +16,7 @@ I have listed these steps in the order and timeframe which I followed, you are f
 | Mid-September to Mid-October | <a href="#shortlisting">Shortlisting programmes and professors</a> |
 | Late October | <a href="#lor">Letters of Recommendation </a> |
 | Late October | <a href="#cv">Resume/CV </a> |
-| November, December (sans Christmas holiday season), January | <a href="#prog-req">Listing Programme Requirements </a> |
+| November, December (sans Christmas holiday season), January | <a href="#email">Emailing </a> |
 | Early November | <a href="#prog-req">Listing Programme Requirements </a> |
 | November - Deadline | <a href="#sop">Statement of Purpose </a> |
 | Deadline | <a href="#submit">Submitting the Applications</a> |
