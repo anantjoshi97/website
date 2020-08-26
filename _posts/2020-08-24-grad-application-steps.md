@@ -6,7 +6,7 @@ date: 2020-08-24 22:06:00 +0530
 last_modified_at: 2020-08-24 22:06:00 +0530
 ---
 
-I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're consider. Secondly, quite a few of these steps (writing an SoP for example) might be new for you. Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
+I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're considering. Secondly, quite a few of these steps (writing an SoP for example) might be new for you. Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
 
 I have listed these steps in the order and timeframe which I followed, you are free to choose otherwise. Typical PhD application deadlines for the US are between 1st to 15th December. 
 
@@ -22,7 +22,7 @@ I have listed these steps in the order and timeframe which I followed, you are f
 | Deadline | <a href="#submit">Submitting the Applications</a> |
 | January - April | <a href="#interviews">Interviews</a> |
 
-
+<!--
 <ol>
   <li> <a href="#exams"> GRE and TOEFL </a> </li>
   <li> <a href="#shortlisting">Shortlisting programmes and professors</a> </li>
@@ -34,6 +34,7 @@ I have listed these steps in the order and timeframe which I followed, you are f
   <li> <a href="#submit">Submitting the Applications</a> </li>
   <li> Interviews </li>
 </ol>
+-->
 
 Let me begin by explaining why I chose to go through these steps in the order specified. I studied for GRE and TOEFL in May and June since that was the time of my summer vacation and I had no academic coursework to look after. I appeared for both exams in the first week of July. I began browsing through the PhD programmes offered by various universities and the professors affiliated with those departments, in September after my mid-semester exam, since by then I had sufficient clarity on what fields I was already interested in or wanted to explore. By mid-October I'd shortlisted my own set of names, after which I began discussing these with senior students in my field and professors I knew. It was during this time that I asked my professors whether they would write letters of recommendations for me. Simultaneously, I made the first draft of my CV so that I could begin emailing professors, enquiring if they have open positions. From November, I first listed the exact requirements of each programme so that I would get ample time to prepare for anything unorthodox, and then began writing my SoP which went on till the applications deadlines.
 
