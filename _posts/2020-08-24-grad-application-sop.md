@@ -13,9 +13,9 @@ I've written this article as a part of an extended <a href="{{ '/posts/2020/08/2
 Your Statement of Purpose (SoP) is essentially what you would say at an interview when the interviewer says, "Run me through your resume". Each of my statements were 2 page long (unless the university asked for a shorter one) and had about 1000 to 1200 words (unless the university imposed a word limit). I would suggest that you limit to 2 pages at a legible font (preferably 12 pt) - which would get it to something around 1000-1200 words. I would suggest that you read through various opinions available on the internet about writing SoPs. I'm listing a few resources now 
 <ul>
 <li> A <a href="https://grad.berkeley.edu/admissions/apply/statement-purpose/">writeup</a> by the University of California, Berkeley </li>
-<li> A <a href="https://grad.ucla.edu/asis/agep/advsopstem.pdf">writeup</a> by the University of California, Los Angeles <\li>
-<li> A <a href="https://www.cs.umd.edu/grad/writing-statement-of-pupose">writeup</a> by the University of Maryland <\li>
-<li>This <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">post</a> has a few guidelines and refers to many resources. 
+<li> A <a href="https://grad.ucla.edu/asis/agep/advsopstem.pdf">writeup</a> by the University of California, Los Angeles </li>
+<li> A <a href="https://www.cs.umd.edu/grad/writing-statement-of-pupose">writeup</a> by the University of Maryland </li>
+<li>This <a href="https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school">post</a> has a few guidelines and refers to many resources. </li>
 </ul>
 
 I think about a month or month and a half is a good estimate for the time taken to write one.
