@@ -3,7 +3,7 @@ layout: single
 tag: narrative
 title: "Graduate Application Steps: Statement of Purpose"
 date: 2020-08-24 20:41:00 +0530
-last_modified_at: 2020-08-24 20:41:00 +0530
+last_modified_at: 2020-08-26 23:16:00 +0530
 ---
 
 I've written this article as a part of an extended <a href="{{ '/posts/2020/08/24/grad-application-steps.html' | relative_url }}">article</a> which summarises the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. This article particularly focusses on the Statement of Purpose. 
@@ -62,4 +62,4 @@ After Draft One phase, you will end up making only minor changes or high level c
 Confirm with your letter writers if they want a copy of your SoP. It would be a good idea to ask them to review your SoP, since they would look at it from an entirely different angle. You could ask other professors to review it as well.
 
 <h2> Acknowledgements </h2> 
-I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me.
+I would like to thank all my family members, relatives, friends, seniors and professors for their help during my PhD application period. I would like to specially thank Karan Chadha (who was one amongst those) who suggested quite a few the ideas presented in the articles on graduate applications to me. My thanks to Riya for reviewing the article.
