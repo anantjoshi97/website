@@ -3,7 +3,7 @@ layout: single
 tag: narrative
 title: "Graduate Application Steps"
 date: 2020-08-24 22:06:00 +0530
-last_modified_at: 2020-08-24 22:06:00 +0530
+last_modified_at: 2020-08-26 23:16:00 +0530
 ---
 
 I've written this article to summarise the essential steps that a student applying for graduate programs would generally go through. I draw from my experience with making PhD applications in 2019. These are applicable to a majority of the programmes offered by the US. For Europe and other places, there might be some differences but the procedure will be similar. It is advisable of course, to confirm the exact steps to be followed as per the application requirements of the specific programme you're considering. Secondly, quite a few of these steps (writing an SoP for example) might be new for you. Thus the more you read, the better informed and better acquainted with these procedures you will be. Proactively surf the internet to find out extensively about each of such steps and various opinions on what to do and what not to do. For a compilation of such resources, see Kalpesh Krishna's blog [post](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html).
