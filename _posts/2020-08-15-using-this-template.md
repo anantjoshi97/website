@@ -11,7 +11,7 @@ Look <a href="https://mmistakes.github.io/minimal-mistakes/year-archive/">here</
 
 ## Configuration
 
-* Change personal details in ```_config.yml```.
+* Change personal details (including the SEO and google analytics details) in ```_config.yml```.
 * Change (or remove) the google analytics code in ```_includes/head.html```.
 
 ## Layouts
