@@ -18,3 +18,7 @@ The steps to finding and preparing for an internship are as follows
   <li> Secure funding </li>
   <li> Visa </li>
 </ul>
+
+<h2 id="decide"> Deciding why </h2>
+
+<h2 id="decide"> Deciding why </h2>
