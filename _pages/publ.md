@@ -7,7 +7,7 @@ sidebar:
   nav: "publications"
 ---
 
-> <a href="https://scholar.google.com/citations?user=FLWcEXMAAAAJ&hl=en">Google Scholar page</a>
+> <a href="https://scholar.google.com/citations?user=xAw3_6YAAAAJ&hl=en">Google Scholar page</a>
 
 > <a href="https://arxiv.org/a/joshi_a_4.html">arXiv author's page</a>
 
