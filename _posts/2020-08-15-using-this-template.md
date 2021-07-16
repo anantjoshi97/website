@@ -7,7 +7,9 @@ last_modified_at: 2020-08-20 17:15:00 +0530
 ---
 
 This website is based on the <a href="https://github.com/mmistakes/minimal-mistakes">Mininal Mistakes</a> theme.
-Look <a href="https://mmistakes.github.io/minimal-mistakes/year-archive/">here</a> for a set of sample posts.
+Look <a href="https://mmistakes.github.io/minimal-mistakes/year-archive/">here</a> for a set of sample posts. 
+
+The exact template for this website can be found <a href="https://github.com/anantjoshi97/website/tree/gh-pages"> here </a> in the ```gh-pages ``` branch of the repository.
 
 ## Configuration
 
