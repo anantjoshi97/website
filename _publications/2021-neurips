@@ -1,0 +1,22 @@
+---
+layout: pubpage
+title: Ensemble Kalman Filter (EnKF) for Reinforcement Learning (RL)
+authors: Anant A. Joshi, Amirhossein Taghvaei, Prashant G. Mehta
+type: preprint
+forum: 
+year: 
+doi: 
+arxiv: https://arxiv.org/abs/2107.01244
+date_of_entry: 2021-08-06 15:00:33 +0530
+---
+
+## Abstract 
+
+This paper is concerned with the problem of representing and learning the optimal control law for the linear quadratic Gaussian (LQG) optimal control problem. 
+In recent years, there is a growing interest in re-visiting this classical problem, in part due to the successes of reinforcement learning (RL). 
+The main question of this body of research (and also of our paper) is to approximate the optimal control law {\em without} explicitly solving the Riccati equation. 
+For this purpose, a novel simulation-based algorithm, namely an ensemble Kalman filter (EnKF), is introduced in this paper. 
+The algorithm is used to obtain formulae for optimal control, expressed entirely in terms of the EnKF particles. 
+For the general partially observed LQG problem, the proposed EnKF is combined with a standard EnKF (for the estimation problem) to obtain the optimal control 
+input based on the use of the separation principle. A nonlinear extension of the algorithm is also discussed which clarifies the duality roots of the proposed EnKF. 
+The theoretical results and algorithms are illustrated with numerical experiments. 
