@@ -3,6 +3,7 @@ layout: pubpage
 title: Ensemble Kalman Filter (EnKF) for Reinforcement Learning (RL)
 authors: Anant A. Joshi, Amirhossein Taghvaei, Prashant G. Mehta
 type: preprint
+project: rl-lqr
 forum: 
 year: 
 doi: 
