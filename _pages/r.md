@@ -29,4 +29,37 @@ Our work draws inspiration from Kalman filtering, an intricately studied problem
 
 We are attempting to leverage tools from duality between control and observer systems, to design model free methods for solving the continuous time LQR problem. We propose an interacting particle system which yields the LQR control gain in a model free way. 
 
-### Preprints
+### Publications
+
+{% assign pp = site.publications | where_exp: "item","item.project == 'rl-lqr'" %}
+{% assign pp_size = pp | size %}
+{% if pp_size > 0 %}
+{% assign pp_sorted = pp | sort: "date_of_entry" | reverse %}
+<!-- <h3 class="mt-4" id="pp">Preprints</h3> -->
+{% for pub in pp_sorted %}
+<div class="pubitem">
+  <div class="pubtitle">
+    {{ pub.title }}
+  </div>
+  <div class="pubauthors">
+    {{ pub.authors }}
+  </div>
+  {% if pub.type == 'preprint' %}
+  <div class="publinks">
+  &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+    &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Abstract</a>
+  </div>
+  {% else %}
+  <div>
+    <div class="pubinfo">
+      {{ pub.forum }}, {{ pub.year}}
+    </div>
+    <div class="publinks">
+    &#8226; <a href="{{pub.doi}}"> DOI </a>&nbsp;&nbsp; &#8226; <a href="{{pub.arxiv}}">arXiV</a>
+      &nbsp;&nbsp; &#8226; <a href="{{pub.url | relative_url }}">Citation and Abstract</a>
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+{% endif %}
