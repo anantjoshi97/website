@@ -12,7 +12,7 @@ I am broadly interested in the mathematical theory of control and dynamical syst
 <!--
 My time at the student satellite project introduced me to spacecraft dynamics and control.
 -->
-<! --
+<!--
 A list of my publications is available <a href="{{ '/publications/' | relative_url }}"> here </a>. 
 -->
 
