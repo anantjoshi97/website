@@ -18,10 +18,10 @@ A list of my publications is available <a href="{{ '/publications/' | relative_u
 
 ## Particle Methods for Reinforcement Learning
 
-### Background
+#### Background
 Reinforcement learning (RL) focusses on solving optimal control problems via model free methods, as opposed to conventional methods which require knowledge of the system model. RL has enjoyed many spellbinding applications, but literature investigating its theoretical aspects is considerably nascent. Our work is an attempt at advancing that front and gain insight into the inner workings of this magical yet mysterious paradigm. 
 
-### Current Work
+#### Current Work
 
 The focus of our attention is the classic linear quadratic regulator (LQR) problem. LQR is the cornerstone of optimal control theory. Recent efforts in RL have been towards applying traditional methods or inventing new ones, for solving the LQR problem. 
 
@@ -29,7 +29,7 @@ Our work draws inspiration from Kalman filtering, an intricately studied problem
 
 We are attempting to leverage tools from duality between control and observer systems, to design model free methods for solving the continuous time LQR problem. We propose an interacting particle system which yields the LQR control gain in a model free way. 
 
-### Publications
+#### Publications
 
 {% assign pp = site.publications | where_exp: "item","item.project == 'rl-lqr'" %}
 {% assign pp_size = pp | size %}
