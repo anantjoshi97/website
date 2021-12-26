@@ -16,7 +16,8 @@ My time at the student satellite project introduced me to spacecraft dynamics an
 A list of my publications is available <a href="{{ '/publications/' | relative_url }}"> here </a>. 
 -->
 
-----------
+----
+****
 
 ## Particle Methods for Reinforcement Learning
 
