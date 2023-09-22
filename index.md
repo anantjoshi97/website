@@ -15,7 +15,7 @@ title_in_header: false
 ---
 Hello, I am a third year PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/). 
 
-#To know more about my past and current research, visit this <a href="{{ '/research/' | relative_url }}"> #page</a>.
+<!--To know more about my past and current research, visit this <a href="{{ '/research/' | relative_url }}"> page</a>. -->
 
 To see a list of my publications, visit this <a href="{{ '/publications/' | relative_url }}"> page</a> .
 
@@ -27,7 +27,7 @@ During my time at IIT Bombay, I have been a part of the <a href="https://www.aer
 Among other things, I enjoy listening to music (Steven Wilson and Anathema are two of my favourites), and indulge in photography and painting. I am an avid reader as well.
 I have written (or rather, scribbled) about a few of my experiences <a href="{{ '/writing/' | relative_url }}"> here</a>. 
 
-#I may also write about some more academically or technically oriented topics in the future. 
+<!-- I may also write about some more academically or technically oriented topics in the future. -->
 
 ## Education and Experience
 <ul>
