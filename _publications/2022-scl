@@ -3,21 +3,29 @@ layout: pubpage
 title: Controlled Interacting Particle Algorithms for Simulation-based Reinforcement Learning
 authors: Anant A. Joshi, Amirhossein Taghvaei, Prashant G. Mehta, Sean P. Meyn
 type: journal
-project: rl-lqr
-forum: 
-year: 
-doi: 
+forum: Systems & Control Letters
+year: 2022
+doi: https://doi.org/10.1016/j.sysconle.2022.105392
 arxiv: https://arxiv.org/abs/2107.01244
-date_of_entry: 2021-08-06 15:00:33 +0530
+date_of_entry: 2022-09-30 21:02:33 +0530
 ---
 
 ## Abstract 
-
-This paper is concerned with the problem of representing and learning the optimal control law for the linear quadratic Gaussian (LQG) optimal control problem. 
-In recent years, there is a growing interest in re-visiting this classical problem, in part due to the successes of reinforcement learning (RL). 
-The main question of this body of research (and also of our paper) is to approximate the optimal control law {\em without} explicitly solving the Riccati equation. 
-For this purpose, a novel simulation-based algorithm, namely an ensemble Kalman filter (EnKF), is introduced in this paper. 
-The algorithm is used to obtain formulae for optimal control, expressed entirely in terms of the EnKF particles. 
-For the general partially observed LQG problem, the proposed EnKF is combined with a standard EnKF (for the estimation problem) to obtain the optimal control 
-input based on the use of the separation principle. A nonlinear extension of the algorithm is also discussed which clarifies the duality roots of the proposed EnKF. 
-The theoretical results and algorithms are illustrated with numerical experiments. 
+This paper is concerned with optimal control problems for control systems in continuous time, and interacting particle system methods designed to construct approximate control solutions. Particular attention is given to the linear quadratic (LQ) control problem. 
+There is a growing interest in re-visiting this classical problem, in part due to the successes of reinforcement learning (RL). The main question of this body of research (and also of our paper) is to approximate the optimal control law without explicitly solving the Riccati equation. 
+A novel simulation-based algorithm, namely a dual ensemble Kalman filter (EnKF), is introduced. The algorithm is used to obtain formulae for optimal control, expressed entirely in terms of the EnKF particles. An extension to the nonlinear case is also presented. 
+The theoretical results and algorithms are illustrated with numerical experiments.
+## Citation 
+{% highlight bibtex %}
+@article{JOSHI2022105392,
+title = {Controlled interacting particle algorithms for simulation-based reinforcement learning},
+journal = {Systems & Control Letters},
+volume = {170},
+pages = {105392},
+year = {2022},
+issn = {0167-6911},
+doi = {https://doi.org/10.1016/j.sysconle.2022.105392},
+url = {https://www.sciencedirect.com/science/article/pii/S0167691122001694},
+author = {Anant A. Joshi and Amirhossein Taghvaei and Prashant G. Mehta and Sean P. Meyn},
+}
+{% endhighlight %}
