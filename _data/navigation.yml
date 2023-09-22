@@ -5,14 +5,14 @@ main:
 #    url: /typography/
 #  - title: "Tags"
 #    url: /tags/
-  - title: "Scribbles"
-    url: /writing/
-#  - title: "Splash"
-#    url: /splash-page/
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: /publications/
+#  - title: "Splash"
+#    url: /splash-page/
+ # - title: "Research"
+ #   url: /research/
+  - title: "Scribbles"
+    url: /writing/
 
 research:
   - title: "Publications"
