@@ -4,4 +4,4 @@ title: "Resume"
 permalink: /cv/
 ---
 
-To view my CV, click <a href="{{ '/cv/AnantJoshi_CV.pdf' | relative_url }}"> here</a>.
+To view my CV, click <a href="{{ 'https://anantjoshi97.github.io/website/cv/AnantJoshi_CV.pdf'}}"> here</a>.
