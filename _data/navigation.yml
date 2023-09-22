@@ -7,6 +7,8 @@ main:
 #    url: /tags/
   - title: "Publications"
     url: /publications/
+  - title: "Resume"
+    url: /cv/
 #  - title: "Splash"
 #    url: /splash-page/
  # - title: "Research"
