@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anant Joshi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student, MechSE, UIUC"
   location         : #"Somewhere"
   email            : 
