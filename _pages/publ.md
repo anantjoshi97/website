@@ -7,6 +7,8 @@ sidebar:
   nav: "publications"
 ---
 
+<h2 class="page__title" itemprop="headline" id="lop">{{ "Quick Links" | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
+
 > <a href="https://scholar.google.com/citations?user=xAw3_6YAAAAJ&hl=en">Google Scholar page</a>
 
 > <a href="https://arxiv.org/a/joshi_a_4.html">arXiv author's page</a>
@@ -50,7 +52,7 @@ There are currently no preprints.
 {% assign jp_size = jp | size %}
 {% if jp_size > 0 %}
 {% assign jp_sorted = jp | sort: "date_of_entry" | reverse %}
-<h3 class="mt-4" id="jp">Journal Publications</h3>
+<h3 class="mt-4" id="pp" style="text-decoration: underline;">Journal Publications</h3>
 {% for pub in jp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
