@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications"
-classes: wide
+# classes: wide
 permalink: /publications/
 sidebar:
   nav: "publications"
@@ -19,10 +19,10 @@ sidebar:
 {% assign p_sorted = p | sort: "date_of_entry" | reverse %}
 {% assign p_newest = p_sorted | first %}
 
-<h2 class="page__title" itemprop="headline" id="lop">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
-<p class="page__meta"> Updated on {{ p_newest.date_of_entry | date: "%B %-d, %Y" }} </p>
+<!-- <h2 class="page__title" itemprop="headline" id="lop">{{ "List of Publications" | markdownify | remove: "<p>" | remove: "</p>" }}</h2> --!>
+<!-- <p class="page__meta"> Updated on {{ p_newest.date_of_entry | date: "%B %-d, %Y" }} </p> --!>
 
-A more extensive and updated list of publications is available on my google scholar page referenced above. 
+A more extensive and updated list of publications is available on my google scholar page referenced above.
 
 {% assign pp = site.publications | where_exp: "item","item.type == 'preprint'" %}
 {% assign pp_size = pp | size %}
@@ -45,7 +45,7 @@ A more extensive and updated list of publications is available on my google scho
 {% endfor %}
 {% endif %}
 {% if pp_size == 0 %}
-There are currently no preprints. 
+<!-- There are currently no preprints. --!>
 {% endif %}
 
 {% assign jp = site.publications | where_exp: "item","item.type == 'journal'" %}
