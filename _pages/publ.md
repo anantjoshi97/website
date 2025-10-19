@@ -77,7 +77,7 @@ There are currently no preprints.
 {% assign cp_size = cp | size %}
 {% if cp_size > 0 %}
 {% assign cp_sorted = cp | sort: "date_of_entry" | reverse %}
-<h3 class="mt-4" id="cp">Conference Publications</h3>
+<h3 class="mt-4" id="pp" style="text-decoration: underline;">Conference Publications</h3>
 {% for pub in cp_sorted %}
 <div class="pubitem">
   <div class="pubtitle">
