@@ -7,7 +7,7 @@ sidebar:
   nav: "publications"
 ---
 
-<h2 class="page__title" itemprop="headline" id="lop">{{ "Quick Links" | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
+<!-- <h2 class="page__title" itemprop="headline" id="lop">{{ "Quick Links" | markdownify | remove: "<p>" | remove: "</p>" }}</h2> -->
 
 > <a href="https://scholar.google.com/citations?user=xAw3_6YAAAAJ&hl=en">Google Scholar page</a>
 
