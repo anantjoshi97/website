@@ -13,11 +13,13 @@ header:
   caption: "Photo credits: [Unsplash](https://unsplash.com/photos/62V7ntlKgL8)"
 title_in_header: false
 ---
-Hello, since Jan 2021, I have been a PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/). I was very fortunate to have the opportunity for an internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) in the summer of 2024 under the guidance of [Dr. Mouhacine Benosman](https://scholar.google.com/citations?user=cs7AJxcAAAAJ&hl=en) and [Dr. Saviz Mowlavi](https://scholar.google.com/citations?user=CHVIWXoAAAAJ&hl=en). I received my <a href="#education-and-experience"> undergraduate degree </a> at the <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a>. 
+Hello, since Jan 2021, I have been a PhD student in the [Department of Mechanical Science and Engineering](http://mechanical.illinois.edu/) (MechSE) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) (UIUC) being advised by [Prof. Prashant Mehta](http://mehta.mechse.illinois.edu/). My research focusses on constructing sampling-based algorithms for stochastic optimal control and reinforcement learning using interacting particle systems. 
+
+In the summer of 2024, I had the invaluable opportunity to work on a practical application of my PhD research during an industrial internship at [Mitsubishi Electric Research Laboratories](https://www.merl.com/) under the guidance of [Dr. Mouhacine Benosman](https://scholar.google.com/citations?user=cs7AJxcAAAAJ&hl=en) and [Dr. Saviz Mowlavi](https://scholar.google.com/citations?user=CHVIWXoAAAAJ&hl=en). I received my <a href="#education-and-experience"> undergraduate degree </a> at the <a href="http://www.iitb.ac.in/">Indian Institute of Technology, Bombay</a>. 
 
 <!--To know more about my past and current research, visit this <a href="{{ '/research/' | relative_url }}"> page</a>. -->
 
-To see a list of my publications, visit this <a href="{{ '/publications/' | relative_url }}"> page</a> . To view my one page resume, see <a href="https://anantjoshi97.github.io/website/assets/files/AnantAJoshi_CV.pdf"> here</a>.
+To see a list of my publications, visit this <a href="{{ '/publications/' | relative_url }}"> page</a> . To view my one page resume, which describes my research in detail,  see <a href="https://anantjoshi97.github.io/website/assets/files/AnantAJoshi_CV.pdf"> here</a>.
 
 
 <!--
