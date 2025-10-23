@@ -17,7 +17,7 @@ Hello, since Jan 2021, I have been a PhD student in the [Department of Mechanica
 
 <!--To know more about my past and current research, visit this <a href="{{ '/research/' | relative_url }}"> page</a>. -->
 
-To see a list of my publications, visit this <a href="{{ '/publications/' | relative_url }}"> page</a> . To view my CV, see <a href="https://anantjoshi97.github.io/website/assets/files/AnantAJoshi_CV.pdf"> here</a>.
+To see a list of my publications, visit this <a href="{{ '/publications/' | relative_url }}"> page</a> . To view my one page resume, see <a href="https://anantjoshi97.github.io/website/assets/files/AnantAJoshi_CV.pdf"> here</a>.
 
 
 <!--
